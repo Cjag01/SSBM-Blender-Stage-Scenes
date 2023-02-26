@@ -5,3 +5,4 @@ This repo contains .blend files of Super Smash Bros Melee's stages. This pack ai
 
 ## Credits
 - Ploaj: HSDRaw Viewer, .anim import script
+- CSProject: UV Reflection Node

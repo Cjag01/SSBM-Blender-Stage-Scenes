@@ -1,0 +1,24 @@
+animVersion 1.1;
+mayaVersion 2015;
+timeUnit ntscf;
+linearUnit cm;
+angularUnit rad;
+startTime 0;
+endTime 900;
+anim translate.translateX translateX JOBJ_0 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 spline spline 1 1 0 0.1603539 1 0.1603539 1;
+ 278 0.396912 spline spline 1 1 0 -0.358885 1 -0.358885 1;
+ 508 0.614197 spline spline 1 1 0 -0.0922989 1 -0.0922989 1;
+ 543 0.553925 spline spline 1 1 0 0.01033145 1 0.01033145 1;
+ 596 0.718903 spline spline 1 1 0 0.2102019 1 0.2102019 1;
+ 674 0.693512 spline spline 1 1 0 0 1 0 1;
+ 899 1.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}

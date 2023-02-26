@@ -1,0 +1,255 @@
+animVersion 1.1;
+mayaVersion 2015;
+timeUnit ntscf;
+linearUnit cm;
+angularUnit rad;
+startTime 0;
+endTime 2399;
+anim JOBJ_0 0 1 0;
+anim translate.translateX translateX JOBJ_1 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -22.739000 spline spline 1 1 0 11.93789 1 11.93789 1;
+ 297 40.054730 spline spline 1 1 0 11.9381 1 11.9381 1;
+ 298 40.266150 auto step 1 1 0 0 1;
+ 300 -107.177300 spline spline 1 1 0 -89.22285 1 35.14564 1;
+ 597 101.795900 spline spline 1 1 0 35.11932 1 35.11932 1;
+ 598 102.499200 spline spline 1 1 0 19.34817 1 19.34817 1;
+ 599 102.498100 spline spline 1 1 0 -0.0590128 1 -89.77164 1;
+ 600 -148.395100 spline spline 1 1 0 -89.77164 1 19.68351 1;
+ 897 -42.192590 spline spline 1 1 0 19.67003 1 19.67003 1;
+ 899 -41.835490 spline spline 1 1 0 -0.0212009 1 89.61918 1;
+ 900 108.615300 spline spline 1 1 0 89.61918 1 29.0206 1;
+ 1197 273.401100 spline spline 1 1 0 29.02528 1 29.02528 1;
+ 1198 273.956000 spline spline 1 1 0 15.527 1 15.527 1;
+ 1199 273.956800 spline spline 1 1 0 0.04546173 1 -89.54436 1;
+ 1200 148.209700 spline spline 1 1 0 -89.54436 1 -6.59933 1;
+ 1497 113.876600 spline spline 1 1 0 -6.589628 1 -6.589628 1;
+ 1499 113.760700 spline spline 1 1 0 -0.01748529 1 85.29028 1;
+ 1500 125.898800 spline spline 1 1 0 85.29028 1 1.554934 1;
+ 1797 133.961700 spline spline 1 1 0 1.555371 1 1.555371 1;
+ 1798 133.988900 auto step 1 1 0 0 1;
+ 1800 -114.460800 spline spline 1 1 0 -89.53878 1 4.159421 1;
+ 2097 -93.087720 spline spline 1 1 0 4.052438 1 4.052438 1;
+ 2099 -93.017030 spline spline 1 1 0 -0.008742643 1 89.03237 1;
+ 2100 -33.809890 spline spline 1 1 0 89.03237 1 -27.8373 1;
+ 2397 -190.334600 spline spline 1 1 0 -27.78309 1 -27.78309 1;
+ 2398 -190.861500 spline spline 1 1 0 -14.72654 1 -14.72654 1;
+ 2399 -190.860300 spline spline 1 1 0 0.06906682 1 0.06906682 1;
+ }
+}
+anim translate.translateY translateY JOBJ_1 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 214.140600 auto step 1 1 0 0 1;
+ 300 17.460940 auto step 1 1 0 0 1;
+ 600 -8.890625 spline spline 1 1 0 10.18852 1 10.18852 1;
+ 602 -7.992188 spline spline 1 1 0 24.09925 1 24.09925 1;
+ 897 123.953100 spline spline 1 1 0 24.09897 1 24.09897 1;
+ 898 124.398400 spline spline 1 1 0 12.60039 1 12.60039 1;
+ 899 124.398400 spline spline 1 1 0 -0.01355109 1 -89.46379 1;
+ 900 17.546880 spline spline 1 1 0 -89.46379 1 -0.00109283 1;
+ 937 17.546880 spline spline 1 1 0 -0.0008196224 1 -0.0008196224 1;
+ 938 17.546880 auto step 1 1 0 0 1;
+ 940 17.546880 auto step 1 1 0 0 1;
+ 942 17.546880 auto step 1 1 0 0 1;
+ 944 17.546880 auto step 1 1 0 0 1;
+ 946 17.546880 auto step 1 1 0 0 1;
+ 948 17.546880 auto step 1 1 0 0 1;
+ 950 17.546880 auto step 1 1 0 0 1;
+ 953 17.546880 auto step 1 1 0 0 1;
+ 956 17.546880 auto step 1 1 0 0 1;
+ 968 17.546880 auto step 1 1 0 0 1;
+ 970 17.546880 auto step 1 1 0 0 1;
+ 972 17.546880 auto step 1 1 0 0 1;
+ 974 17.546880 auto step 1 1 0 0 1;
+ 976 17.546880 spline spline 1 1 0 0.0007376602 1 0.0007376602 1;
+ 1199 17.601560 spline spline 1 1 0 0.03442415 1 89.32216 1;
+ 1200 102.125000 spline spline 1 1 0 89.32216 1 -14.64964 1;
+ 1497 24.492190 spline spline 1 1 0 -14.64949 1 -14.64949 1;
+ 1499 24.226560 spline spline 1 1 0 0.0167203 1 -89.13354 1;
+ 1500 -41.882810 spline spline 1 1 0 -89.13354 1 15.92877 1;
+ 1797 42.875000 spline spline 1 1 0 15.92978 1 15.92978 1;
+ 1798 43.164060 auto step 1 1 0 0 1;
+ 1800 139.476600 spline spline 1 1 0 88.81042 1 3.950647 1;
+ 2097 159.984400 spline spline 1 1 0 3.950212 1 3.950212 1;
+ 2098 160.054700 auto step 1 1 0 0 1;
+ 2100 -4.695313 spline spline 1 1 0 -89.30452 1 7.460646 1;
+ 2397 34.242190 spline spline 1 1 0 7.477888 1 7.477888 1;
+ 2399 34.375000 spline spline 1 1 0 0.01639245 1 0.01639245 1;
+ }
+}
+anim translate.translateZ translateZ JOBJ_1 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 772.770700 auto step 1 1 0 0 1;
+ 300 178.598800 spline spline 1 1 0 -63.21059 1 -0.05944997 1;
+ 599 178.372600 spline spline 1 1 0 -0.0218566 1 89.67368 1;
+ 600 353.950100 spline spline 1 1 0 89.67368 1 -12.28067 1;
+ 897 289.314300 spline spline 1 1 0 -12.27149 1 -12.27149 1;
+ 899 289.096300 spline spline 1 1 0 -0.0244794 1 89.49579 1;
+ 900 402.728200 spline spline 1 1 0 89.49579 1 -41.15323 1;
+ 1197 143.225000 spline spline 1 1 0 -41.13662 1 -41.13662 1;
+ 1198 142.351600 spline spline 1 1 0 -23.5857 1 -23.5857 1;
+ 1199 142.351800 spline spline 1 1 0 0.01398823 1 -89.6843 1;
+ 1200 -39.132180 spline spline 1 1 0 -89.6843 1 7.504748 1;
+ 1497 0.019160 spline spline 1 1 0 7.513826 1 7.513826 1;
+ 1499 0.151327 spline spline 1 1 0 0.01647868 1 89.18402 1;
+ 1500 70.364010 spline spline 1 1 0 89.18402 1 -2.948909 1;
+ 1797 55.063990 spline spline 1 1 0 -2.949128 1 -2.949128 1;
+ 1798 55.012470 auto step 1 1 0 0 1;
+ 1800 -22.165680 spline spline 1 1 0 -88.51556 1 7.388273 1;
+ 2097 16.623510 spline spline 1 1 0 7.467304 1 7.467304 1;
+ 2099 16.756360 spline spline 1 1 0 0.1020703 1 89.87104 1;
+ 2100 461.056100 spline spline 1 1 0 89.87104 1 -19.5625 1;
+ 2397 355.768500 spline spline 1 1 0 -19.36821 1 -19.36821 1;
+ 2399 355.420900 spline spline 1 1 0 0.222062 1 0.222062 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_1 0 1 3;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 50.343980 linear linear 1 1 0;
+ 299 50.361980 linear linear 1 1 0;
+ 300 27.000000 spline spline 1 1 0 3.528771 1 11.60642 1;
+ 599 27.000000 linear linear 1 1 0;
+ 600 10.043010 spline spline 1 1 0 0 1 0 1;
+ 899 31.013000 linear linear 1 1 0;
+ 900 14.064970 spline spline 1 1 0 6.845914 1 6.845914 1;
+ 1199 27.000000 linear linear 1 1 0;
+ 1200 50.194990 linear linear 1 1 0;
+ 1499 27.000000 linear linear 1 1 0;
+ 1799 27.000000 linear linear 1 1 0;
+ 1800 19.173000 linear linear 1 1 0;
+ 2099 42.633020 linear linear 1 1 0;
+ 2100 65.373950 linear linear 1 1 0;
+ 2399 27.000000 linear linear 1 1 0;
+ }
+}
+anim translate.translateX translateX JOBJ_2 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -23.445310 spline spline 1 1 0 11.93789 1 11.93789 1;
+ 297 39.335940 spline spline 1 1 0 11.9381 1 11.9381 1;
+ 298 39.546880 auto step 1 1 0 0 1;
+ 300 -88.007810 spline spline 1 1 0 -89.10177 1 30.30121 1;
+ 597 82.976560 spline spline 1 1 0 30.25492 1 30.25492 1;
+ 598 83.554690 spline spline 1 1 0 13.02226 1 13.02226 1;
+ 599 83.437500 spline spline 1 1 0 -6.889034 1 -89.7212 1;
+ 600 -122.062500 spline spline 1 1 0 -89.7212 1 16.5248 1;
+ 897 -36.421880 spline spline 1 1 0 15.92816 1 15.92816 1;
+ 899 -36.210940 spline spline 1 1 0 -4.14181 1 89.4439 1;
+ 900 66.812500 spline spline 1 1 0 89.4439 1 30.59943 1;
+ 1183 240.476600 spline spline 1 1 0 32.50495 1 32.50495 1;
+ 1197 249.421900 spline spline 1 1 0 32.63224 1 32.63224 1;
+ 1198 250.062500 spline spline 1 1 0 19.97556 1 19.97556 1;
+ 1199 250.148400 spline spline 1 1 0 4.948236 1 -89.59571 1;
+ 1200 108.429700 spline spline 1 1 0 -89.59571 1 -8.416673 1;
+ 1497 68.554690 spline spline 1 1 0 -6.800481 1 -6.800481 1;
+ 1499 68.429690 spline spline 1 1 0 -0.222062 1 86.42881 1;
+ 1500 84.453130 spline spline 1 1 0 86.42881 1 1.554934 1;
+ 1797 92.515630 spline spline 1 1 0 1.555371 1 1.555371 1;
+ 1798 92.539060 auto step 1 1 0 0 1;
+ 1800 -138.796900 spline spline 1 1 0 -89.50468 1 13.86085 1;
+ 2097 -60.742190 spline spline 1 1 0 11.90316 1 11.90316 1;
+ 2099 -60.398440 spline spline 1 1 0 7.894105 1 -70.53387 1;
+ 2100 -63.226560 spline spline 1 1 0 -70.53387 1 -27.58994 1;
+ 2258 -138.039100 spline spline 1 1 0 -20.97644 1 -20.97644 1;
+ 2359 -165.406300 spline spline 1 1 0 -8.399986 1 -8.399986 1;
+ 2397 -169.750000 spline spline 1 1 0 -5.357558 1 -5.357558 1;
+ 2398 -169.843800 spline spline 1 1 0 9.673008 1 9.673008 1;
+ 2399 -169.406300 spline spline 1 1 0 23.48833 1 23.48833 1;
+ }
+}
+anim translate.translateY translateY JOBJ_2 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 203.750000 auto step 1 1 0 0 1;
+ 300 12.531250 auto step 1 1 0 0 1;
+ 600 -9.781250 spline spline 1 1 0 9.411342 1 9.411342 1;
+ 602 -8.968750 spline spline 1 1 0 22.0927 1 22.0927 1;
+ 897 110.945300 spline spline 1 1 0 22.17695 1 22.17695 1;
+ 898 111.359400 spline spline 1 1 0 10.41852 1 10.41852 1;
+ 899 111.312500 spline spline 1 1 0 -2.284552 1 -89.41251 1;
+ 900 13.789060 spline spline 1 1 0 -89.41251 1 -0.1787864 1;
+ 1199 23.109380 spline spline 1 1 0 5.856218 1 89.05805 1;
+ 1200 83.929690 spline spline 1 1 0 89.05805 1 -12.17002 1;
+ 1497 20.593750 spline spline 1 1 0 -11.9517 1 -11.9517 1;
+ 1499 20.437500 spline spline 1 1 0 2.863779 1 -89.03399 1;
+ 1500 -38.867190 spline spline 1 1 0 -89.03399 1 15.92877 1;
+ 1797 45.890630 spline spline 1 1 0 15.92978 1 15.92978 1;
+ 1798 46.179690 auto step 1 1 0 0 1;
+ 1800 125.835900 spline spline 1 1 0 88.5617 1 3.950647 1;
+ 2097 146.343800 spline spline 1 1 0 3.950212 1 3.950212 1;
+ 2098 146.414100 auto step 1 1 0 0 1;
+ 2100 -12.648440 spline spline 1 1 0 -89.27964 1 7.229043 1;
+ 2397 33.492190 spline spline 1 1 0 10.18462 1 10.18462 1;
+ 2399 33.718750 spline spline 1 1 0 2.797824 1 2.797824 1;
+ }
+}
+anim translate.translateZ translateZ JOBJ_2 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 728.488000 auto step 1 1 0 0 1;
+ 300 137.637700 spline spline 1 1 0 -63.08115 1 -3.251391 1;
+ 599 137.360000 spline spline 1 1 0 3.152036 1 89.68081 1;
+ 600 316.862300 spline spline 1 1 0 89.68081 1 -14.57146 1;
+ 897 246.103900 spline spline 1 1 0 -12.14496 1 -12.14496 1;
+ 899 245.890900 spline spline 1 1 0 0.1223968 1 89.58865 1;
+ 900 385.174500 spline spline 1 1 0 89.58865 1 -43.83788 1;
+ 1157 141.762200 spline spline 1 1 0 -42.84444 1 -42.84444 1;
+ 1197 104.930100 spline spline 1 1 0 -42.3965 1 -42.3965 1;
+ 1198 104.017400 spline spline 1 1 0 -25.43903 1 -25.43903 1;
+ 1199 103.978800 spline spline 1 1 0 -2.210354 1 -89.63178 1;
+ 1200 -51.623220 spline spline 1 1 0 -89.63178 1 9.540208 1;
+ 1497 0.530710 spline spline 1 1 0 10.20901 1 10.20901 1;
+ 1499 0.759272 spline spline 1 1 0 2.775886 1 88.87868 1;
+ 1500 51.849450 spline spline 1 1 0 88.87868 1 -2.948909 1;
+ 1797 36.549420 spline spline 1 1 0 -2.949128 1 -2.949128 1;
+ 1798 36.497910 auto step 1 1 0 0 1;
+ 1800 -58.097110 spline spline 1 1 0 -88.78879 1 0.7107406 1;
+ 1995 -37.545490 spline spline 1 1 0 11.44189 1 11.44189 1;
+ 2097 -12.318440 spline spline 1 1 0 16.03663 1 16.03663 1;
+ 2099 -11.871510 spline spline 1 1 0 9.043484 1 89.86953 1;
+ 2100 427.281100 spline spline 1 1 0 89.86953 1 -19.75633 1;
+ 2243 371.433800 spline spline 1 1 0 -23.20977 1 -23.20977 1;
+ 2337 331.649200 spline spline 1 1 0 -20.64873 1 -20.64873 1;
+ 2397 315.205300 spline spline 1 1 0 -7.55759 1 -7.55759 1;
+ 2399 315.307400 spline spline 1 1 0 13.04964 1 13.04964 1;
+ }
+}

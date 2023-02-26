@@ -1,0 +1,124 @@
+animVersion 1.1;
+mayaVersion 2015;
+timeUnit ntscf;
+linearUnit cm;
+angularUnit rad;
+startTime 0;
+endTime 513;
+anim JOBJ_0 0 1 0;
+anim JOBJ_1 0 1 0;
+anim JOBJ_2 0 1 0;
+anim JOBJ_3 0 1 0;
+anim rotate.rotateY rotateY JOBJ_4 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 linear linear 1 1 0;
+ 110 0.052338 linear linear 1 1 0;
+ 120 0.069794 linear linear 1 1 0;
+ 130 0.122162 linear linear 1 1 0;
+ 140 0.226868 linear linear 1 1 0;
+ 150 0.331604 linear linear 1 1 0;
+ 160 0.410126 linear linear 1 1 0;
+ 170 0.471222 linear linear 1 1 0;
+ 260 0.471222 linear linear 1 1 0;
+ 300 0.523590 linear linear 1 1 0;
+ 512 0.523590 linear linear 1 1 0;
+ }
+}
+anim translate.translateX translateX JOBJ_4 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 58.000000 linear linear 1 1 0;
+ 100 33.000000 linear linear 1 1 0;
+ 110 30.000000 linear linear 1 1 0;
+ 120 27.500000 linear linear 1 1 0;
+ 130 25.500000 linear linear 1 1 0;
+ 140 23.500000 linear linear 1 1 0;
+ 150 20.750000 linear linear 1 1 0;
+ 160 18.750000 linear linear 1 1 0;
+ 260 10.750000 linear linear 1 1 0;
+ 300 9.500000 linear linear 1 1 0;
+ 512 9.500000 linear linear 1 1 0;
+ }
+}
+anim translate.translateY translateY JOBJ_4 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 3.250000 linear linear 1 1 0;
+ 50 3.250000 linear linear 1 1 0;
+ 110 3.250000 linear linear 1 1 0;
+ 120 3.250000 linear linear 1 1 0;
+ 130 3.250000 linear linear 1 1 0;
+ 140 3.250000 linear linear 1 1 0;
+ 150 3.250000 linear linear 1 1 0;
+ 160 3.250000 linear linear 1 1 0;
+ 260 3.250000 linear linear 1 1 0;
+ 300 3.249878 linear linear 1 1 0;
+ 512 3.250000 linear linear 1 1 0;
+ }
+}
+anim translate.translateZ translateZ JOBJ_4 0 1 3;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -23.750000 linear linear 1 1 0;
+ 120 -23.750000 linear linear 1 1 0;
+ 130 -23.750000 linear linear 1 1 0;
+ 140 -22.750000 linear linear 1 1 0;
+ 150 -22.250000 linear linear 1 1 0;
+ 160 -21.250000 linear linear 1 1 0;
+ 260 -17.750000 linear linear 1 1 0;
+ 300 -16.750000 linear linear 1 1 0;
+ 512 -16.750000 linear linear 1 1 0;
+ }
+}
+anim rotate.rotateZ rotateZ JOBJ_5 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 linear linear 1 1 0;
+ 240 29.321290 linear linear 1 1 0;
+ 300 31.415040 linear linear 1 1 0;
+ 512 31.415040 linear linear 1 1 0;
+ }
+}
+anim rotate.rotateZ rotateZ JOBJ_6 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 linear linear 1 1 0;
+ 240 29.321290 linear linear 1 1 0;
+ 300 31.415040 linear linear 1 1 0;
+ 512 31.415040 linear linear 1 1 0;
+ }
+}
+anim JOBJ_7 0 1 0;
+anim JOBJ_8 0 1 0;
+anim JOBJ_9 0 1 0;

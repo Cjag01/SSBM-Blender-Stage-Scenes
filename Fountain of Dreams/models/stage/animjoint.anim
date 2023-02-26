@@ -1,0 +1,1572 @@
+animVersion 1.1;
+mayaVersion 2015;
+timeUnit ntscf;
+linearUnit cm;
+angularUnit rad;
+startTime 0;
+endTime 900;
+anim JOBJ_0 0 1 0;
+anim JOBJ_1 0 1 0;
+anim JOBJ_2 0 1 0;
+anim JOBJ_3 0 1 0;
+anim JOBJ_4 0 1 0;
+anim JOBJ_5 0 1 0;
+anim JOBJ_6 0 1 0;
+anim JOBJ_7 0 1 0;
+anim JOBJ_8 0 1 0;
+anim JOBJ_9 0 1 0;
+anim JOBJ_10 0 1 0;
+anim JOBJ_11 0 1 0;
+anim JOBJ_12 0 1 0;
+anim rotate.rotateY rotateY JOBJ_13 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 spline spline 1 1 0 0 1 0 1;
+ 449 -0.029602 spline spline 1 1 0 0 1 0 1;
+ 899 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_14 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 spline spline 1 1 0 0 1 0 1;
+ 224 0.702789 spline spline 1 1 0 0 1 0 1;
+ 449 1.000000 spline spline 1 1 0 0 1 0 1;
+ 674 0.702789 spline spline 1 1 0 0 1 0 1;
+ 899 1.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_14 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 spline spline 1 1 0 0 1 0 1;
+ 224 0.916992 spline spline 1 1 0 0 1 0 1;
+ 449 1.000000 spline spline 1 1 0 0 1 0 1;
+ 674 0.916992 spline spline 1 1 0 0 1 0 1;
+ 899 1.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_14 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_15 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 spline spline 1 1 0 0 1 0 1;
+ 224 0.702789 spline spline 1 1 0 0 1 0 1;
+ 449 1.000000 spline spline 1 1 0 0 1 0 1;
+ 674 0.702789 spline spline 1 1 0 0 1 0 1;
+ 899 1.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_15 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 spline spline 1 1 0 0 1 0 1;
+ 224 0.916992 spline spline 1 1 0 0 1 0 1;
+ 449 1.000000 spline spline 1 1 0 0 1 0 1;
+ 674 0.916992 spline spline 1 1 0 0 1 0 1;
+ 899 1.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_15 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_16 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 spline spline 1 1 0 0 1 0 1;
+ 224 0.702789 spline spline 1 1 0 0 1 0 1;
+ 449 1.000000 spline spline 1 1 0 0 1 0 1;
+ 674 0.702789 spline spline 1 1 0 0 1 0 1;
+ 899 1.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_16 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 spline spline 1 1 0 0 1 0 1;
+ 224 0.916992 spline spline 1 1 0 0 1 0 1;
+ 449 1.000000 spline spline 1 1 0 0 1 0 1;
+ 674 0.916992 spline spline 1 1 0 0 1 0 1;
+ 899 1.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_16 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_17 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 spline spline 1 1 0 0 1 0 1;
+ 224 0.702789 spline spline 1 1 0 0 1 0 1;
+ 449 1.000000 spline spline 1 1 0 0 1 0 1;
+ 674 0.702789 spline spline 1 1 0 0 1 0 1;
+ 899 1.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_17 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 spline spline 1 1 0 0 1 0 1;
+ 224 0.916992 spline spline 1 1 0 0 1 0 1;
+ 449 1.000000 spline spline 1 1 0 0 1 0 1;
+ 674 0.916992 spline spline 1 1 0 0 1 0 1;
+ 899 1.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_17 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_18 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 spline spline 1 1 0 0 1 0 1;
+ 224 0.702789 spline spline 1 1 0 0 1 0 1;
+ 449 1.000000 spline spline 1 1 0 0 1 0 1;
+ 674 0.702789 spline spline 1 1 0 0 1 0 1;
+ 899 1.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_18 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 spline spline 1 1 0 0 1 0 1;
+ 224 0.916992 spline spline 1 1 0 0 1 0 1;
+ 449 1.000000 spline spline 1 1 0 0 1 0 1;
+ 674 0.916992 spline spline 1 1 0 0 1 0 1;
+ 899 1.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_18 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_19 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 spline spline 1 1 0 0 1 0 1;
+ 224 0.702789 spline spline 1 1 0 0 1 0 1;
+ 449 1.000000 spline spline 1 1 0 0 1 0 1;
+ 674 0.702789 spline spline 1 1 0 0 1 0 1;
+ 899 1.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_19 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 spline spline 1 1 0 0 1 0 1;
+ 224 0.916992 spline spline 1 1 0 0 1 0 1;
+ 449 1.000000 spline spline 1 1 0 0 1 0 1;
+ 674 0.916992 spline spline 1 1 0 0 1 0 1;
+ 899 1.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_19 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_20 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 spline spline 1 1 0 0 1 0 1;
+ 449 0.025970 spline spline 1 1 0 0 1 0 1;
+ 899 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_21 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.702789 spline spline 1 1 0 0 1 0 1;
+ 225 1.000000 spline spline 1 1 0 0 1 0 1;
+ 450 0.702789 spline spline 1 1 0 0 1 0 1;
+ 675 1.000000 spline spline 1 1 0 0 1 0 1;
+ 899 0.702789 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_21 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.916992 spline spline 1 1 0 0 1 0 1;
+ 225 1.000000 spline spline 1 1 0 0 1 0 1;
+ 450 0.916992 spline spline 1 1 0 0 1 0 1;
+ 675 1.000000 spline spline 1 1 0 0 1 0 1;
+ 899 0.916992 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_21 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_22 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.702789 spline spline 1 1 0 0 1 0 1;
+ 225 1.000000 spline spline 1 1 0 0 1 0 1;
+ 450 0.702789 spline spline 1 1 0 0 1 0 1;
+ 675 1.000000 spline spline 1 1 0 0 1 0 1;
+ 899 0.702789 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_22 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.916992 spline spline 1 1 0 0 1 0 1;
+ 225 1.000000 spline spline 1 1 0 0 1 0 1;
+ 450 0.916992 spline spline 1 1 0 0 1 0 1;
+ 675 1.000000 spline spline 1 1 0 0 1 0 1;
+ 899 0.916992 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_22 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_23 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.702789 spline spline 1 1 0 0 1 0 1;
+ 225 1.000000 spline spline 1 1 0 0 1 0 1;
+ 450 0.702789 spline spline 1 1 0 0 1 0 1;
+ 675 1.000000 spline spline 1 1 0 0 1 0 1;
+ 899 0.702789 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_23 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.916992 spline spline 1 1 0 0 1 0 1;
+ 225 1.000000 spline spline 1 1 0 0 1 0 1;
+ 450 0.916992 spline spline 1 1 0 0 1 0 1;
+ 675 1.000000 spline spline 1 1 0 0 1 0 1;
+ 899 0.916992 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_23 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_24 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.702789 spline spline 1 1 0 0 1 0 1;
+ 225 1.000000 spline spline 1 1 0 0 1 0 1;
+ 450 0.702789 spline spline 1 1 0 0 1 0 1;
+ 675 1.000000 spline spline 1 1 0 0 1 0 1;
+ 899 0.702789 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_24 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.916992 spline spline 1 1 0 0 1 0 1;
+ 225 1.000000 spline spline 1 1 0 0 1 0 1;
+ 450 0.916992 spline spline 1 1 0 0 1 0 1;
+ 675 1.000000 spline spline 1 1 0 0 1 0 1;
+ 899 0.916992 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_24 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_25 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.702789 spline spline 1 1 0 0 1 0 1;
+ 225 1.000000 spline spline 1 1 0 0 1 0 1;
+ 450 0.702789 spline spline 1 1 0 0 1 0 1;
+ 675 1.000000 spline spline 1 1 0 0 1 0 1;
+ 899 0.702789 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_25 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.916992 spline spline 1 1 0 0 1 0 1;
+ 225 1.000000 spline spline 1 1 0 0 1 0 1;
+ 450 0.916992 spline spline 1 1 0 0 1 0 1;
+ 675 1.000000 spline spline 1 1 0 0 1 0 1;
+ 899 0.916992 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_25 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_26 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.702789 spline spline 1 1 0 0 1 0 1;
+ 225 1.000000 spline spline 1 1 0 0 1 0 1;
+ 450 0.702789 spline spline 1 1 0 0 1 0 1;
+ 675 1.000000 spline spline 1 1 0 0 1 0 1;
+ 899 0.702789 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_26 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.916992 spline spline 1 1 0 0 1 0 1;
+ 225 1.000000 spline spline 1 1 0 0 1 0 1;
+ 450 0.916992 spline spline 1 1 0 0 1 0 1;
+ 675 1.000000 spline spline 1 1 0 0 1 0 1;
+ 899 0.916992 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_26 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_27 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.702789 spline spline 1 1 0 0 1 0 1;
+ 225 1.000000 spline spline 1 1 0 0 1 0 1;
+ 450 0.702789 spline spline 1 1 0 0 1 0 1;
+ 675 1.000000 spline spline 1 1 0 0 1 0 1;
+ 899 0.702789 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_27 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.916992 spline spline 1 1 0 0 1 0 1;
+ 225 1.000000 spline spline 1 1 0 0 1 0 1;
+ 450 0.916992 spline spline 1 1 0 0 1 0 1;
+ 675 1.000000 spline spline 1 1 0 0 1 0 1;
+ 899 0.916992 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_27 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim JOBJ_28 0 1 0;
+anim scale.scaleX scaleX JOBJ_29 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.867279 spline spline 1 1 0 -0.07343815 1 -0.07343815 1;
+ 120 0.702789 spline spline 1 1 0 0.02098234 1 0.02098234 1;
+ 345 1.000000 spline spline 1 1 0 0 1 0 1;
+ 570 0.702789 spline spline 1 1 0 0 1 0 1;
+ 795 1.000000 spline spline 1 1 0 0.02797645 1 0.02797645 1;
+ 899 0.867279 spline spline 1 1 0 -0.07343815 1 -0.07343815 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_29 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.962921 spline spline 1 1 0 -0.02098234 1 -0.02098234 1;
+ 120 0.916992 spline spline 1 1 0 0.003497057 1 0.003497057 1;
+ 345 1.000000 spline spline 1 1 0 0 1 0 1;
+ 570 0.916992 spline spline 1 1 0 0 1 0 1;
+ 795 1.000000 spline spline 1 1 0 0.006994114 1 0.006994114 1;
+ 899 0.962921 spline spline 1 1 0 -0.02098234 1 -0.02098234 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_29 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_30 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.867279 spline spline 1 1 0 -0.07343815 1 -0.07343815 1;
+ 120 0.702789 spline spline 1 1 0 0.02098234 1 0.02098234 1;
+ 345 1.000000 spline spline 1 1 0 0 1 0 1;
+ 570 0.702789 spline spline 1 1 0 0 1 0 1;
+ 795 1.000000 spline spline 1 1 0 0.02797645 1 0.02797645 1;
+ 899 0.867279 spline spline 1 1 0 -0.07343815 1 -0.07343815 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_30 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.962921 spline spline 1 1 0 -0.02098234 1 -0.02098234 1;
+ 120 0.916992 spline spline 1 1 0 0.003497057 1 0.003497057 1;
+ 345 1.000000 spline spline 1 1 0 0 1 0 1;
+ 570 0.916992 spline spline 1 1 0 0 1 0 1;
+ 795 1.000000 spline spline 1 1 0 0.006994114 1 0.006994114 1;
+ 899 0.962921 spline spline 1 1 0 -0.02098234 1 -0.02098234 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_30 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_31 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.867279 spline spline 1 1 0 -0.07343815 1 -0.07343815 1;
+ 120 0.702789 spline spline 1 1 0 0.02098234 1 0.02098234 1;
+ 345 1.000000 spline spline 1 1 0 0 1 0 1;
+ 570 0.702789 spline spline 1 1 0 0 1 0 1;
+ 795 1.000000 spline spline 1 1 0 0.02797645 1 0.02797645 1;
+ 899 0.867279 spline spline 1 1 0 -0.07343815 1 -0.07343815 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_31 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.962921 spline spline 1 1 0 -0.02098234 1 -0.02098234 1;
+ 120 0.916992 spline spline 1 1 0 0.003497057 1 0.003497057 1;
+ 345 1.000000 spline spline 1 1 0 0 1 0 1;
+ 570 0.916992 spline spline 1 1 0 0 1 0 1;
+ 795 1.000000 spline spline 1 1 0 0.006994114 1 0.006994114 1;
+ 899 0.962921 spline spline 1 1 0 -0.02098234 1 -0.02098234 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_31 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_32 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.867279 spline spline 1 1 0 -0.07343815 1 -0.07343815 1;
+ 120 0.702789 spline spline 1 1 0 0.02098234 1 0.02098234 1;
+ 345 1.000000 spline spline 1 1 0 0 1 0 1;
+ 570 0.702789 spline spline 1 1 0 0 1 0 1;
+ 795 1.000000 spline spline 1 1 0 0.02797645 1 0.02797645 1;
+ 899 0.867279 spline spline 1 1 0 -0.07343815 1 -0.07343815 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_32 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.962921 spline spline 1 1 0 -0.02098234 1 -0.02098234 1;
+ 120 0.916992 spline spline 1 1 0 0.003497057 1 0.003497057 1;
+ 345 1.000000 spline spline 1 1 0 0 1 0 1;
+ 570 0.916992 spline spline 1 1 0 0 1 0 1;
+ 795 1.000000 spline spline 1 1 0 0.006994114 1 0.006994114 1;
+ 899 0.962921 spline spline 1 1 0 -0.02098234 1 -0.02098234 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_32 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_33 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.867279 spline spline 1 1 0 -0.07343815 1 -0.07343815 1;
+ 120 0.702789 spline spline 1 1 0 0.02098234 1 0.02098234 1;
+ 345 1.000000 spline spline 1 1 0 0 1 0 1;
+ 570 0.702789 spline spline 1 1 0 0 1 0 1;
+ 795 1.000000 spline spline 1 1 0 0.02797645 1 0.02797645 1;
+ 899 0.867279 spline spline 1 1 0 -0.07343815 1 -0.07343815 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_33 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.962921 spline spline 1 1 0 -0.02098234 1 -0.02098234 1;
+ 120 0.916992 spline spline 1 1 0 0.003497057 1 0.003497057 1;
+ 345 1.000000 spline spline 1 1 0 0 1 0 1;
+ 570 0.916992 spline spline 1 1 0 0 1 0 1;
+ 795 1.000000 spline spline 1 1 0 0.006994114 1 0.006994114 1;
+ 899 0.962921 spline spline 1 1 0 -0.02098234 1 -0.02098234 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_33 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_34 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.867279 spline spline 1 1 0 -0.07343815 1 -0.07343815 1;
+ 120 0.702789 spline spline 1 1 0 0.02098234 1 0.02098234 1;
+ 345 1.000000 spline spline 1 1 0 0 1 0 1;
+ 570 0.702789 spline spline 1 1 0 0 1 0 1;
+ 795 1.000000 spline spline 1 1 0 0.02797645 1 0.02797645 1;
+ 899 0.867279 spline spline 1 1 0 -0.07343815 1 -0.07343815 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_34 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.962921 spline spline 1 1 0 -0.02098234 1 -0.02098234 1;
+ 120 0.916992 spline spline 1 1 0 0.003497057 1 0.003497057 1;
+ 345 1.000000 spline spline 1 1 0 0 1 0 1;
+ 570 0.916992 spline spline 1 1 0 0 1 0 1;
+ 795 1.000000 spline spline 1 1 0 0.006994114 1 0.006994114 1;
+ 899 0.962921 spline spline 1 1 0 -0.02098234 1 -0.02098234 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_34 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_35 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 linear linear 1 1 0;
+ 899 6.281250 linear linear 1 1 0;
+ }
+}
+anim JOBJ_36 0 1 0;
+anim JOBJ_37 0 1 0;
+anim scale.scaleX scaleX JOBJ_38 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 spline spline 1 1 0 0 1 0 1;
+ 224 0.702789 spline spline 1 1 0 0 1 0 1;
+ 449 1.000000 spline spline 1 1 0 0 1 0 1;
+ 674 0.702789 spline spline 1 1 0 0 1 0 1;
+ 899 1.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_38 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 spline spline 1 1 0 0 1 0 1;
+ 224 0.916992 spline spline 1 1 0 0 1 0 1;
+ 449 1.000000 spline spline 1 1 0 0 1 0 1;
+ 674 0.916992 spline spline 1 1 0 0 1 0 1;
+ 899 1.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_38 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_39 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 spline spline 1 1 0 0 1 0 1;
+ 224 0.702789 spline spline 1 1 0 0 1 0 1;
+ 449 1.000000 spline spline 1 1 0 0 1 0 1;
+ 674 0.702789 spline spline 1 1 0 0 1 0 1;
+ 899 1.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_39 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 spline spline 1 1 0 0 1 0 1;
+ 224 0.916992 spline spline 1 1 0 0 1 0 1;
+ 449 1.000000 spline spline 1 1 0 0 1 0 1;
+ 674 0.916992 spline spline 1 1 0 0 1 0 1;
+ 899 1.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_39 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_40 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 spline spline 1 1 0 0 1 0 1;
+ 224 0.702789 spline spline 1 1 0 0 1 0 1;
+ 449 1.000000 spline spline 1 1 0 0 1 0 1;
+ 674 0.702789 spline spline 1 1 0 0 1 0 1;
+ 899 1.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_40 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 spline spline 1 1 0 0 1 0 1;
+ 224 0.916992 spline spline 1 1 0 0 1 0 1;
+ 449 1.000000 spline spline 1 1 0 0 1 0 1;
+ 674 0.916992 spline spline 1 1 0 0 1 0 1;
+ 899 1.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_40 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_41 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 spline spline 1 1 0 0 1 0 1;
+ 224 0.702789 spline spline 1 1 0 0 1 0 1;
+ 449 1.000000 spline spline 1 1 0 0 1 0 1;
+ 674 0.702789 spline spline 1 1 0 0 1 0 1;
+ 899 1.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_41 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 spline spline 1 1 0 0 1 0 1;
+ 224 0.916992 spline spline 1 1 0 0 1 0 1;
+ 449 1.000000 spline spline 1 1 0 0 1 0 1;
+ 674 0.916992 spline spline 1 1 0 0 1 0 1;
+ 899 1.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_41 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_42 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 spline spline 1 1 0 0 1 0 1;
+ 224 0.702789 spline spline 1 1 0 0 1 0 1;
+ 449 1.000000 spline spline 1 1 0 0 1 0 1;
+ 674 0.702789 spline spline 1 1 0 0 1 0 1;
+ 899 1.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_42 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 spline spline 1 1 0 0 1 0 1;
+ 224 0.916992 spline spline 1 1 0 0 1 0 1;
+ 449 1.000000 spline spline 1 1 0 0 1 0 1;
+ 674 0.916992 spline spline 1 1 0 0 1 0 1;
+ 899 1.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_42 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_43 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 spline spline 1 1 0 0 1 0 1;
+ 224 0.702789 spline spline 1 1 0 0 1 0 1;
+ 449 1.000000 spline spline 1 1 0 0 1 0 1;
+ 674 0.702789 spline spline 1 1 0 0 1 0 1;
+ 899 1.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_43 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 spline spline 1 1 0 0 1 0 1;
+ 224 0.916992 spline spline 1 1 0 0 1 0 1;
+ 449 1.000000 spline spline 1 1 0 0 1 0 1;
+ 674 0.916992 spline spline 1 1 0 0 1 0 1;
+ 899 1.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_43 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_44 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 4.177246 linear linear 1 1 0;
+ 99 5.750000 linear linear 1 1 0;
+ 100 1.000000 linear linear 1 1 0;
+ 399 5.750000 linear linear 1 1 0;
+ 400 1.000000 linear linear 1 1 0;
+ 699 5.750000 linear linear 1 1 0;
+ 700 1.000000 linear linear 1 1 0;
+ 899 4.161255 spline spline 1 1 0 0.9091585 1 0.9091585 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_44 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_44 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 4.177246 linear linear 1 1 0;
+ 99 5.750000 linear linear 1 1 0;
+ 100 1.000000 linear linear 1 1 0;
+ 399 5.750000 linear linear 1 1 0;
+ 400 1.000000 linear linear 1 1 0;
+ 699 5.750000 linear linear 1 1 0;
+ 700 1.000000 linear linear 1 1 0;
+ 899 4.161255 spline spline 1 1 0 0.9091585 1 0.9091585 1;
+ }
+}
+anim JOBJ_45 0 1 0;
+anim scale.scaleX scaleX JOBJ_46 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.867279 spline spline 1 1 0 -0.07343815 1 -0.07343815 1;
+ 120 0.702789 spline spline 1 1 0 0.02098234 1 0.02098234 1;
+ 345 1.000000 spline spline 1 1 0 0 1 0 1;
+ 570 0.702789 spline spline 1 1 0 0 1 0 1;
+ 795 1.000000 spline spline 1 1 0 0.02797645 1 0.02797645 1;
+ 899 0.867279 spline spline 1 1 0 -0.07343815 1 -0.07343815 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_46 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.962921 spline spline 1 1 0 -0.02098234 1 -0.02098234 1;
+ 120 0.916992 spline spline 1 1 0 0.003497057 1 0.003497057 1;
+ 345 1.000000 spline spline 1 1 0 0 1 0 1;
+ 570 0.916992 spline spline 1 1 0 0 1 0 1;
+ 795 1.000000 spline spline 1 1 0 0.006994114 1 0.006994114 1;
+ 899 0.962921 spline spline 1 1 0 -0.02098234 1 -0.02098234 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_46 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_47 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.867279 spline spline 1 1 0 -0.07343815 1 -0.07343815 1;
+ 120 0.702789 spline spline 1 1 0 0.02098234 1 0.02098234 1;
+ 345 1.000000 spline spline 1 1 0 0 1 0 1;
+ 570 0.702789 spline spline 1 1 0 0 1 0 1;
+ 795 1.000000 spline spline 1 1 0 0.02797645 1 0.02797645 1;
+ 899 0.867279 spline spline 1 1 0 -0.07343815 1 -0.07343815 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_47 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.962921 spline spline 1 1 0 -0.02098234 1 -0.02098234 1;
+ 120 0.916992 spline spline 1 1 0 0.003497057 1 0.003497057 1;
+ 345 1.000000 spline spline 1 1 0 0 1 0 1;
+ 570 0.916992 spline spline 1 1 0 0 1 0 1;
+ 795 1.000000 spline spline 1 1 0 0.006994114 1 0.006994114 1;
+ 899 0.962921 spline spline 1 1 0 -0.02098234 1 -0.02098234 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_47 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_48 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.867279 spline spline 1 1 0 -0.07343815 1 -0.07343815 1;
+ 120 0.702789 spline spline 1 1 0 0.02098234 1 0.02098234 1;
+ 345 1.000000 spline spline 1 1 0 0 1 0 1;
+ 570 0.702789 spline spline 1 1 0 0 1 0 1;
+ 795 1.000000 spline spline 1 1 0 0.02797645 1 0.02797645 1;
+ 899 0.867279 spline spline 1 1 0 -0.07343815 1 -0.07343815 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_48 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.962921 spline spline 1 1 0 -0.02098234 1 -0.02098234 1;
+ 120 0.916992 spline spline 1 1 0 0.003497057 1 0.003497057 1;
+ 345 1.000000 spline spline 1 1 0 0 1 0 1;
+ 570 0.916992 spline spline 1 1 0 0 1 0 1;
+ 795 1.000000 spline spline 1 1 0 0.006994114 1 0.006994114 1;
+ 899 0.962921 spline spline 1 1 0 -0.02098234 1 -0.02098234 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_48 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_49 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.867279 spline spline 1 1 0 -0.07343815 1 -0.07343815 1;
+ 120 0.702789 spline spline 1 1 0 0.02098234 1 0.02098234 1;
+ 345 1.000000 spline spline 1 1 0 0 1 0 1;
+ 570 0.702789 spline spline 1 1 0 0 1 0 1;
+ 795 1.000000 spline spline 1 1 0 0.02797645 1 0.02797645 1;
+ 899 0.867279 spline spline 1 1 0 -0.07343815 1 -0.07343815 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_49 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.962921 spline spline 1 1 0 -0.02098234 1 -0.02098234 1;
+ 120 0.916992 spline spline 1 1 0 0.003497057 1 0.003497057 1;
+ 345 1.000000 spline spline 1 1 0 0 1 0 1;
+ 570 0.916992 spline spline 1 1 0 0 1 0 1;
+ 795 1.000000 spline spline 1 1 0 0.006994114 1 0.006994114 1;
+ 899 0.962921 spline spline 1 1 0 -0.02098234 1 -0.02098234 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_49 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_50 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.867279 spline spline 1 1 0 -0.07343815 1 -0.07343815 1;
+ 120 0.702789 spline spline 1 1 0 0.02098234 1 0.02098234 1;
+ 345 1.000000 spline spline 1 1 0 0 1 0 1;
+ 570 0.702789 spline spline 1 1 0 0 1 0 1;
+ 795 1.000000 spline spline 1 1 0 0.02797645 1 0.02797645 1;
+ 899 0.867279 spline spline 1 1 0 -0.07343815 1 -0.07343815 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_50 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.962921 spline spline 1 1 0 -0.02098234 1 -0.02098234 1;
+ 120 0.916992 spline spline 1 1 0 0.003497057 1 0.003497057 1;
+ 345 1.000000 spline spline 1 1 0 0 1 0 1;
+ 570 0.916992 spline spline 1 1 0 0 1 0 1;
+ 795 1.000000 spline spline 1 1 0 0.006994114 1 0.006994114 1;
+ 899 0.962921 spline spline 1 1 0 -0.02098234 1 -0.02098234 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_50 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_51 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.867279 spline spline 1 1 0 -0.07343815 1 -0.07343815 1;
+ 120 0.702789 spline spline 1 1 0 0.02098234 1 0.02098234 1;
+ 345 1.000000 spline spline 1 1 0 0 1 0 1;
+ 570 0.702789 spline spline 1 1 0 0 1 0 1;
+ 795 1.000000 spline spline 1 1 0 0.02797645 1 0.02797645 1;
+ 899 0.867279 spline spline 1 1 0 -0.07343815 1 -0.07343815 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_51 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.962921 spline spline 1 1 0 -0.02098234 1 -0.02098234 1;
+ 120 0.916992 spline spline 1 1 0 0.003497057 1 0.003497057 1;
+ 345 1.000000 spline spline 1 1 0 0 1 0 1;
+ 570 0.916992 spline spline 1 1 0 0 1 0 1;
+ 795 1.000000 spline spline 1 1 0 0.006994114 1 0.006994114 1;
+ 899 0.962921 spline spline 1 1 0 -0.02098234 1 -0.02098234 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_51 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_52 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.867279 spline spline 1 1 0 -0.07343815 1 -0.07343815 1;
+ 120 0.702789 spline spline 1 1 0 0.02098234 1 0.02098234 1;
+ 345 1.000000 spline spline 1 1 0 0 1 0 1;
+ 570 0.702789 spline spline 1 1 0 0 1 0 1;
+ 795 1.000000 spline spline 1 1 0 0.02797645 1 0.02797645 1;
+ 899 0.867279 spline spline 1 1 0 -0.07343815 1 -0.07343815 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_52 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.962921 spline spline 1 1 0 -0.02098234 1 -0.02098234 1;
+ 120 0.916992 spline spline 1 1 0 0.003497057 1 0.003497057 1;
+ 345 1.000000 spline spline 1 1 0 0 1 0 1;
+ 570 0.916992 spline spline 1 1 0 0 1 0 1;
+ 795 1.000000 spline spline 1 1 0 0.006994114 1 0.006994114 1;
+ 899 0.962921 spline spline 1 1 0 -0.02098234 1 -0.02098234 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_52 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_53 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 linear linear 1 1 0;
+ 299 5.750000 linear linear 1 1 0;
+ 300 1.000000 linear linear 1 1 0;
+ 599 5.750000 linear linear 1 1 0;
+ 600 1.000000 linear linear 1 1 0;
+ 899 5.750000 linear linear 1 1 0;
+ }
+}
+anim scale.scaleY scaleY JOBJ_53 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_53 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 linear linear 1 1 0;
+ 299 5.750000 linear linear 1 1 0;
+ 300 1.000000 linear linear 1 1 0;
+ 599 5.750000 linear linear 1 1 0;
+ 600 1.000000 linear linear 1 1 0;
+ 899 5.750000 linear linear 1 1 0;
+ }
+}
+anim scale.scaleX scaleX JOBJ_54 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 2.588623 linear linear 1 1 0;
+ 199 5.750000 linear linear 1 1 0;
+ 200 1.000000 linear linear 1 1 0;
+ 499 5.750000 linear linear 1 1 0;
+ 500 1.000000 linear linear 1 1 0;
+ 799 5.750000 linear linear 1 1 0;
+ 800 1.000000 linear linear 1 1 0;
+ 899 2.572632 spline spline 1 1 0 0.9091585 1 0.9091585 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_54 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 899 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_54 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 2.588623 linear linear 1 1 0;
+ 199 5.750000 linear linear 1 1 0;
+ 200 1.000000 linear linear 1 1 0;
+ 499 5.750000 linear linear 1 1 0;
+ 500 1.000000 linear linear 1 1 0;
+ 799 5.750000 linear linear 1 1 0;
+ 800 1.000000 linear linear 1 1 0;
+ 899 2.572632 spline spline 1 1 0 0.9091585 1 0.9091585 1;
+ }
+}

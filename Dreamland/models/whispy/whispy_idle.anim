@@ -1,0 +1,772 @@
+animVersion 1.1;
+mayaVersion 2015;
+timeUnit ntscf;
+linearUnit cm;
+angularUnit rad;
+startTime 0;
+endTime 399;
+anim JOBJ_0 0 1 0;
+anim rotate.rotateY rotateY JOBJ_1 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.609375 linear linear 1 1 0;
+ 1 0.609375 linear linear 1 1 0;
+ 2 0.609375 linear linear 1 1 0;
+ 3 0.609375 linear linear 1 1 0;
+ 4 0.609375 linear linear 1 1 0;
+ 5 0.609375 linear linear 1 1 0;
+ 6 0.609375 linear linear 1 1 0;
+ 7 0.609375 linear linear 1 1 0;
+ 8 0.609375 linear linear 1 1 0;
+ 9 0.609375 linear linear 1 1 0;
+ 10 0.609375 linear linear 1 1 0;
+ 11 0.609375 linear linear 1 1 0;
+ 12 0.609375 linear linear 1 1 0;
+ 13 0.609375 linear linear 1 1 0;
+ 14 0.609375 linear linear 1 1 0;
+ 15 0.609375 linear linear 1 1 0;
+ 16 0.609375 linear linear 1 1 0;
+ 17 0.609375 linear linear 1 1 0;
+ 18 0.609375 linear linear 1 1 0;
+ 19 0.609375 linear linear 1 1 0;
+ 20 0.609375 linear linear 1 1 0;
+ 21 0.609375 linear linear 1 1 0;
+ 22 0.609375 linear linear 1 1 0;
+ 23 0.609375 linear linear 1 1 0;
+ 24 0.609375 linear linear 1 1 0;
+ 25 0.609375 linear linear 1 1 0;
+ 26 0.609375 linear linear 1 1 0;
+ 27 0.609375 linear linear 1 1 0;
+ 28 0.609375 linear linear 1 1 0;
+ 29 0.609375 linear linear 1 1 0;
+ 30 0.609375 linear linear 1 1 0;
+ 31 0.609375 linear linear 1 1 0;
+ 32 0.609375 linear linear 1 1 0;
+ 33 0.609375 linear linear 1 1 0;
+ 34 0.609375 linear linear 1 1 0;
+ 35 0.609375 linear linear 1 1 0;
+ 36 0.609375 linear linear 1 1 0;
+ 37 0.609375 linear linear 1 1 0;
+ 38 0.609375 linear linear 1 1 0;
+ 39 0.609375 linear linear 1 1 0;
+ 40 0.609375 linear linear 1 1 0;
+ 41 0.609375 linear linear 1 1 0;
+ 42 0.609375 linear linear 1 1 0;
+ 43 0.609375 linear linear 1 1 0;
+ 44 0.609375 linear linear 1 1 0;
+ 45 0.609375 linear linear 1 1 0;
+ 46 0.609375 linear linear 1 1 0;
+ 47 0.609375 linear linear 1 1 0;
+ 48 0.609375 linear linear 1 1 0;
+ 49 0.609375 linear linear 1 1 0;
+ 50 0.609375 linear linear 1 1 0;
+ 51 0.609375 linear linear 1 1 0;
+ 52 0.609375 linear linear 1 1 0;
+ 53 0.609375 linear linear 1 1 0;
+ 54 0.609375 linear linear 1 1 0;
+ 55 0.609375 linear linear 1 1 0;
+ 56 0.609375 linear linear 1 1 0;
+ 57 0.609375 linear linear 1 1 0;
+ 58 0.609375 linear linear 1 1 0;
+ 59 0.609375 linear linear 1 1 0;
+ 60 0.609375 linear linear 1 1 0;
+ 61 0.609375 linear linear 1 1 0;
+ 62 0.609375 linear linear 1 1 0;
+ 63 0.609375 linear linear 1 1 0;
+ 64 0.609375 linear linear 1 1 0;
+ 65 0.609375 linear linear 1 1 0;
+ 66 0.609375 linear linear 1 1 0;
+ 67 0.609375 linear linear 1 1 0;
+ 68 0.609375 linear linear 1 1 0;
+ 69 0.609375 linear linear 1 1 0;
+ 70 0.609375 linear linear 1 1 0;
+ 71 0.609375 linear linear 1 1 0;
+ 72 0.609375 linear linear 1 1 0;
+ 73 0.609375 linear linear 1 1 0;
+ 74 0.609375 linear linear 1 1 0;
+ 75 0.609375 linear linear 1 1 0;
+ 76 0.609375 linear linear 1 1 0;
+ 77 0.609375 linear linear 1 1 0;
+ 78 0.609375 linear linear 1 1 0;
+ 79 0.609375 linear linear 1 1 0;
+ 80 0.609375 linear linear 1 1 0;
+ 81 0.609375 linear linear 1 1 0;
+ 82 0.609375 linear linear 1 1 0;
+ 83 0.609375 linear linear 1 1 0;
+ 84 0.609375 linear linear 1 1 0;
+ 85 0.609375 linear linear 1 1 0;
+ 86 0.609375 linear linear 1 1 0;
+ 87 0.609375 linear linear 1 1 0;
+ 88 0.609375 linear linear 1 1 0;
+ 89 0.609375 linear linear 1 1 0;
+ 90 0.609375 linear linear 1 1 0;
+ 91 0.609375 linear linear 1 1 0;
+ 92 0.609375 linear linear 1 1 0;
+ 93 0.609375 linear linear 1 1 0;
+ 94 0.609375 linear linear 1 1 0;
+ 95 0.609375 linear linear 1 1 0;
+ 96 0.609375 linear linear 1 1 0;
+ 97 0.609375 linear linear 1 1 0;
+ 98 0.609375 linear linear 1 1 0;
+ 99 0.609375 linear linear 1 1 0;
+ 100 0.609375 linear linear 1 1 0;
+ 101 0.609375 linear linear 1 1 0;
+ 102 0.609375 linear linear 1 1 0;
+ 103 0.609375 linear linear 1 1 0;
+ 104 0.609375 linear linear 1 1 0;
+ 105 0.609375 linear linear 1 1 0;
+ 106 0.609375 linear linear 1 1 0;
+ 107 0.609375 linear linear 1 1 0;
+ 108 0.609375 linear linear 1 1 0;
+ 109 0.609375 linear linear 1 1 0;
+ 110 0.609375 linear linear 1 1 0;
+ 111 0.609375 linear linear 1 1 0;
+ 112 0.609375 linear linear 1 1 0;
+ 113 0.609375 linear linear 1 1 0;
+ 114 0.609375 linear linear 1 1 0;
+ 115 0.609375 linear linear 1 1 0;
+ 116 0.609375 linear linear 1 1 0;
+ 117 0.609375 linear linear 1 1 0;
+ 118 0.609375 linear linear 1 1 0;
+ 119 0.609375 linear linear 1 1 0;
+ 120 0.609375 linear linear 1 1 0;
+ 121 0.609375 linear linear 1 1 0;
+ 122 0.609375 linear linear 1 1 0;
+ 123 0.609375 linear linear 1 1 0;
+ 124 0.609375 linear linear 1 1 0;
+ 125 0.609375 linear linear 1 1 0;
+ 126 0.609375 linear linear 1 1 0;
+ 127 0.609375 linear linear 1 1 0;
+ 128 0.609375 linear linear 1 1 0;
+ 129 0.609375 linear linear 1 1 0;
+ 130 0.609375 linear linear 1 1 0;
+ 131 0.609375 linear linear 1 1 0;
+ 132 0.609375 linear linear 1 1 0;
+ 133 0.609375 linear linear 1 1 0;
+ 134 0.609375 linear linear 1 1 0;
+ 135 0.609375 linear linear 1 1 0;
+ 136 0.609375 linear linear 1 1 0;
+ 137 0.609375 linear linear 1 1 0;
+ 138 0.609375 linear linear 1 1 0;
+ 139 0.609375 linear linear 1 1 0;
+ 140 0.609375 linear linear 1 1 0;
+ 141 0.609375 linear linear 1 1 0;
+ 142 0.609375 linear linear 1 1 0;
+ 143 0.609375 linear linear 1 1 0;
+ 144 0.609375 linear linear 1 1 0;
+ 145 0.609375 linear linear 1 1 0;
+ 146 0.609375 linear linear 1 1 0;
+ 147 0.609375 linear linear 1 1 0;
+ 148 0.609375 linear linear 1 1 0;
+ 149 0.609375 linear linear 1 1 0;
+ 150 0.609375 linear linear 1 1 0;
+ 151 0.609375 linear linear 1 1 0;
+ 152 0.609375 linear linear 1 1 0;
+ 153 0.609375 linear linear 1 1 0;
+ 154 0.609375 linear linear 1 1 0;
+ 155 0.609375 linear linear 1 1 0;
+ 156 0.609375 linear linear 1 1 0;
+ 157 0.609375 linear linear 1 1 0;
+ 158 0.609375 linear linear 1 1 0;
+ 159 0.609375 linear linear 1 1 0;
+ 160 0.609375 linear linear 1 1 0;
+ 161 0.609375 linear linear 1 1 0;
+ 162 0.609375 linear linear 1 1 0;
+ 163 0.609375 linear linear 1 1 0;
+ 164 0.609375 linear linear 1 1 0;
+ 165 0.609375 linear linear 1 1 0;
+ 166 0.609375 linear linear 1 1 0;
+ 167 0.609375 linear linear 1 1 0;
+ 168 0.609375 linear linear 1 1 0;
+ 169 0.609375 linear linear 1 1 0;
+ 170 0.609375 linear linear 1 1 0;
+ 171 0.609375 linear linear 1 1 0;
+ 172 0.609375 linear linear 1 1 0;
+ 173 0.609375 linear linear 1 1 0;
+ 174 0.609375 linear linear 1 1 0;
+ 175 0.609375 linear linear 1 1 0;
+ 176 0.609375 linear linear 1 1 0;
+ 177 0.609375 linear linear 1 1 0;
+ 178 0.609375 linear linear 1 1 0;
+ 179 0.609375 linear linear 1 1 0;
+ 180 0.609375 linear linear 1 1 0;
+ 181 0.609375 linear linear 1 1 0;
+ 182 0.609375 linear linear 1 1 0;
+ 183 0.609375 linear linear 1 1 0;
+ 184 0.609375 linear linear 1 1 0;
+ 185 0.609375 linear linear 1 1 0;
+ 186 0.609375 linear linear 1 1 0;
+ 187 0.609375 linear linear 1 1 0;
+ 188 0.609375 linear linear 1 1 0;
+ 189 0.609375 linear linear 1 1 0;
+ 190 0.609375 linear linear 1 1 0;
+ 191 0.609375 linear linear 1 1 0;
+ 192 0.609375 linear linear 1 1 0;
+ 193 0.609375 linear linear 1 1 0;
+ 194 0.609375 linear linear 1 1 0;
+ 195 0.609375 linear linear 1 1 0;
+ 196 0.609375 linear linear 1 1 0;
+ 197 0.609375 linear linear 1 1 0;
+ 198 0.609375 linear linear 1 1 0;
+ 199 0.609375 linear linear 1 1 0;
+ 200 0.609375 linear linear 1 1 0;
+ 201 0.609375 linear linear 1 1 0;
+ 202 0.609375 linear linear 1 1 0;
+ 203 0.609375 linear linear 1 1 0;
+ 204 0.609375 linear linear 1 1 0;
+ 205 0.609375 linear linear 1 1 0;
+ 206 0.609375 linear linear 1 1 0;
+ 207 0.609375 linear linear 1 1 0;
+ 208 0.609375 linear linear 1 1 0;
+ 209 0.609375 linear linear 1 1 0;
+ 210 0.609375 linear linear 1 1 0;
+ 211 0.609375 linear linear 1 1 0;
+ 212 0.609375 linear linear 1 1 0;
+ 213 0.609375 linear linear 1 1 0;
+ 214 0.609375 linear linear 1 1 0;
+ 215 0.609375 linear linear 1 1 0;
+ 216 0.609375 linear linear 1 1 0;
+ 217 0.609375 linear linear 1 1 0;
+ 218 0.609375 linear linear 1 1 0;
+ 219 0.609375 linear linear 1 1 0;
+ 220 0.609375 linear linear 1 1 0;
+ 221 0.609375 linear linear 1 1 0;
+ 222 0.609375 linear linear 1 1 0;
+ 223 0.609375 linear linear 1 1 0;
+ 224 0.609375 linear linear 1 1 0;
+ 225 0.609375 linear linear 1 1 0;
+ 226 0.609375 linear linear 1 1 0;
+ 227 0.609375 linear linear 1 1 0;
+ 228 0.609375 linear linear 1 1 0;
+ 229 0.609375 linear linear 1 1 0;
+ 230 0.609375 linear linear 1 1 0;
+ 231 0.609375 linear linear 1 1 0;
+ 232 0.609375 linear linear 1 1 0;
+ 233 0.609375 linear linear 1 1 0;
+ 234 0.609375 linear linear 1 1 0;
+ 235 0.609375 linear linear 1 1 0;
+ 236 0.609375 linear linear 1 1 0;
+ 237 0.609375 linear linear 1 1 0;
+ 238 0.609375 linear linear 1 1 0;
+ 239 0.609375 linear linear 1 1 0;
+ 240 0.609375 linear linear 1 1 0;
+ 241 0.609375 linear linear 1 1 0;
+ 242 0.609375 linear linear 1 1 0;
+ 243 0.609375 linear linear 1 1 0;
+ 244 0.609375 linear linear 1 1 0;
+ 245 0.609375 linear linear 1 1 0;
+ 246 0.609375 linear linear 1 1 0;
+ 247 0.609375 linear linear 1 1 0;
+ 248 0.609375 linear linear 1 1 0;
+ 249 0.609375 linear linear 1 1 0;
+ 250 0.609375 linear linear 1 1 0;
+ 251 0.609375 linear linear 1 1 0;
+ 252 0.609375 linear linear 1 1 0;
+ 253 0.609375 linear linear 1 1 0;
+ 254 0.609375 linear linear 1 1 0;
+ 255 0.609375 linear linear 1 1 0;
+ 256 0.609375 linear linear 1 1 0;
+ 257 0.609375 linear linear 1 1 0;
+ 258 0.609375 linear linear 1 1 0;
+ 259 0.609375 linear linear 1 1 0;
+ 260 0.609375 linear linear 1 1 0;
+ 261 0.609375 linear linear 1 1 0;
+ 262 0.609375 linear linear 1 1 0;
+ 263 0.609375 linear linear 1 1 0;
+ 264 0.609375 linear linear 1 1 0;
+ 265 0.609375 linear linear 1 1 0;
+ 266 0.609375 linear linear 1 1 0;
+ 267 0.609375 linear linear 1 1 0;
+ 268 0.609375 linear linear 1 1 0;
+ 269 0.609375 linear linear 1 1 0;
+ 270 0.609375 linear linear 1 1 0;
+ 271 0.609375 linear linear 1 1 0;
+ 272 0.609375 linear linear 1 1 0;
+ 273 0.609375 linear linear 1 1 0;
+ 274 0.609375 linear linear 1 1 0;
+ 275 0.609375 linear linear 1 1 0;
+ 276 0.609375 linear linear 1 1 0;
+ 277 0.609375 linear linear 1 1 0;
+ 278 0.609375 linear linear 1 1 0;
+ 279 0.609375 linear linear 1 1 0;
+ 280 0.609375 linear linear 1 1 0;
+ 281 0.609375 linear linear 1 1 0;
+ 282 0.609375 linear linear 1 1 0;
+ 283 0.609375 linear linear 1 1 0;
+ 284 0.609375 linear linear 1 1 0;
+ 285 0.609375 linear linear 1 1 0;
+ 286 0.609375 linear linear 1 1 0;
+ 287 0.609375 linear linear 1 1 0;
+ 288 0.609375 linear linear 1 1 0;
+ 289 0.609375 linear linear 1 1 0;
+ 290 0.609375 linear linear 1 1 0;
+ 291 0.609375 linear linear 1 1 0;
+ 292 0.609375 linear linear 1 1 0;
+ 293 0.609375 linear linear 1 1 0;
+ 294 0.609375 linear linear 1 1 0;
+ 295 0.609375 linear linear 1 1 0;
+ 296 0.609375 linear linear 1 1 0;
+ 297 0.609375 linear linear 1 1 0;
+ 298 0.609375 linear linear 1 1 0;
+ 299 0.609375 linear linear 1 1 0;
+ 300 0.609375 linear linear 1 1 0;
+ 301 0.609375 linear linear 1 1 0;
+ 302 0.609375 linear linear 1 1 0;
+ 303 0.609375 linear linear 1 1 0;
+ 304 0.609375 linear linear 1 1 0;
+ 305 0.609375 linear linear 1 1 0;
+ 306 0.609375 linear linear 1 1 0;
+ 307 0.609375 linear linear 1 1 0;
+ 308 0.609375 linear linear 1 1 0;
+ 309 0.609375 linear linear 1 1 0;
+ 310 0.609375 linear linear 1 1 0;
+ 311 0.609375 linear linear 1 1 0;
+ 312 0.609375 linear linear 1 1 0;
+ 313 0.609375 linear linear 1 1 0;
+ 314 0.609375 linear linear 1 1 0;
+ 315 0.609375 linear linear 1 1 0;
+ 316 0.609375 linear linear 1 1 0;
+ 317 0.609375 linear linear 1 1 0;
+ 318 0.609375 linear linear 1 1 0;
+ 319 0.609375 linear linear 1 1 0;
+ 320 0.609375 linear linear 1 1 0;
+ 321 0.609375 linear linear 1 1 0;
+ 322 0.609375 linear linear 1 1 0;
+ 323 0.609375 linear linear 1 1 0;
+ 324 0.609375 linear linear 1 1 0;
+ 325 0.609375 linear linear 1 1 0;
+ 326 0.609375 linear linear 1 1 0;
+ 327 0.609375 linear linear 1 1 0;
+ 328 0.609375 linear linear 1 1 0;
+ 329 0.609375 linear linear 1 1 0;
+ 330 0.609375 linear linear 1 1 0;
+ 331 0.609375 linear linear 1 1 0;
+ 332 0.609375 linear linear 1 1 0;
+ 333 0.609375 linear linear 1 1 0;
+ 334 0.609375 linear linear 1 1 0;
+ 335 0.609375 linear linear 1 1 0;
+ 336 0.609375 linear linear 1 1 0;
+ 337 0.609375 linear linear 1 1 0;
+ 338 0.609375 linear linear 1 1 0;
+ 339 0.609375 linear linear 1 1 0;
+ 340 0.609375 linear linear 1 1 0;
+ 341 0.609375 linear linear 1 1 0;
+ 342 0.609375 linear linear 1 1 0;
+ 343 0.609375 linear linear 1 1 0;
+ 344 0.609375 linear linear 1 1 0;
+ 345 0.609375 linear linear 1 1 0;
+ 346 0.609375 linear linear 1 1 0;
+ 347 0.609375 linear linear 1 1 0;
+ 348 0.609375 linear linear 1 1 0;
+ 349 0.609375 linear linear 1 1 0;
+ 350 0.609375 linear linear 1 1 0;
+ 351 0.609375 linear linear 1 1 0;
+ 352 0.609375 linear linear 1 1 0;
+ 353 0.609375 linear linear 1 1 0;
+ 354 0.609375 linear linear 1 1 0;
+ 355 0.609375 linear linear 1 1 0;
+ 356 0.609375 linear linear 1 1 0;
+ 357 0.609375 linear linear 1 1 0;
+ 358 0.609375 linear linear 1 1 0;
+ 359 0.609375 linear linear 1 1 0;
+ 360 0.609375 linear linear 1 1 0;
+ 361 0.609375 linear linear 1 1 0;
+ 362 0.609375 linear linear 1 1 0;
+ 363 0.609375 linear linear 1 1 0;
+ 364 0.609375 linear linear 1 1 0;
+ 365 0.609375 linear linear 1 1 0;
+ 366 0.609375 linear linear 1 1 0;
+ 367 0.609375 linear linear 1 1 0;
+ 368 0.609375 linear linear 1 1 0;
+ 369 0.609375 linear linear 1 1 0;
+ 370 0.609375 linear linear 1 1 0;
+ 371 0.609375 linear linear 1 1 0;
+ 372 0.609375 linear linear 1 1 0;
+ 373 0.609375 linear linear 1 1 0;
+ 374 0.609375 linear linear 1 1 0;
+ 375 0.609375 linear linear 1 1 0;
+ 376 0.609375 linear linear 1 1 0;
+ 377 0.609375 linear linear 1 1 0;
+ 378 0.609375 linear linear 1 1 0;
+ 379 0.609375 linear linear 1 1 0;
+ 380 0.609375 linear linear 1 1 0;
+ 381 0.609375 linear linear 1 1 0;
+ 382 0.609375 linear linear 1 1 0;
+ 383 0.609375 linear linear 1 1 0;
+ 384 0.609375 linear linear 1 1 0;
+ 385 0.609375 linear linear 1 1 0;
+ 386 0.609375 linear linear 1 1 0;
+ 387 0.609375 linear linear 1 1 0;
+ 388 0.609375 linear linear 1 1 0;
+ 389 0.609375 linear linear 1 1 0;
+ 390 0.609375 linear linear 1 1 0;
+ 391 0.609375 linear linear 1 1 0;
+ 392 0.609375 linear linear 1 1 0;
+ 393 0.609375 linear linear 1 1 0;
+ 394 0.609375 linear linear 1 1 0;
+ 395 0.609375 linear linear 1 1 0;
+ 396 0.609375 linear linear 1 1 0;
+ 397 0.609375 linear linear 1 1 0;
+ 398 0.609375 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_2 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 6 1.199951 auto step 1 1 0 0 1;
+ 9 1.000000 auto step 1 1 0 0 1;
+ 15 1.000000 auto step 1 1 0 0 1;
+ 27 1.199951 auto step 1 1 0 0 1;
+ 29 1.000000 auto step 1 1 0 0 1;
+ 35 1.000000 linear linear 1 1 0;
+ 35 1.000000 linear linear 1 1 0;
+ }
+}
+anim scale.scaleY scaleY JOBJ_2 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 spline spline 1 1 0 -8.145279 1 -8.145279 1;
+ 6 0.103760 linear linear 1 1 0;
+ 9 0.103760 spline spline 1 1 0 12.09858 1 12.09858 1;
+ 15 1.000000 linear linear 1 1 0;
+ 21 1.014771 spline spline 1 1 0 0 1 0 1;
+ 27 0.103760 linear linear 1 1 0;
+ 29 0.103760 spline spline 1 1 0 10.55883 1 10.55883 1;
+ 35 1.000000 linear linear 1 1 0;
+ 35 1.000000 linear linear 1 1 0;
+ }
+}
+anim scale.scaleX scaleX JOBJ_3 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 auto step 1 1 0 0 1;
+ 25 0.000000 auto step 1 1 0 0 1;
+ 35 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_3 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 auto step 1 1 0 0 1;
+ 25 0.000000 auto step 1 1 0 0 1;
+ 35 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_3 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 auto step 1 1 0 0 1;
+ 25 0.000000 auto step 1 1 0 0 1;
+ 35 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim translate.translateX translateX JOBJ_3 0 1 3;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 6.750000 auto step 1 1 0 0 1;
+ 35 6.750000 auto step 1 1 0 0 1;
+ }
+}
+anim translate.translateY translateY JOBJ_3 0 1 4;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 10.500000 auto step 1 1 0 0 1;
+ 35 10.500000 auto step 1 1 0 0 1;
+ }
+}
+anim translate.translateZ translateZ JOBJ_3 0 1 5;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 14.000000 linear linear 1 1 0;
+ 25 14.000000 linear linear 1 1 0;
+ 35 14.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_4 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 auto step 1 1 0 0 1;
+ 35 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_4 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 auto step 1 1 0 0 1;
+ 35 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_4 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 auto step 1 1 0 0 1;
+ 35 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim translate.translateX translateX JOBJ_4 0 1 3;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -6.750000 auto step 1 1 0 0 1;
+ 35 -6.750000 auto step 1 1 0 0 1;
+ }
+}
+anim translate.translateY translateY JOBJ_4 0 1 4;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 10.500000 auto step 1 1 0 0 1;
+ 35 10.500000 auto step 1 1 0 0 1;
+ }
+}
+anim translate.translateZ translateZ JOBJ_4 0 1 5;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 14.000000 auto step 1 1 0 0 1;
+ 35 14.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleX scaleX JOBJ_5 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 53 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_5 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 spline spline 1 1 0 -1.919166 1 -1.919166 1;
+ 6 0.789978 spline spline 1 1 0 -1.419515 1 -1.419515 1;
+ 9 0.789978 spline spline 1 1 0 1.419515 1 1.419515 1;
+ 15 1.000000 spline spline 1 1 0 0 1 0 1;
+ 21 1.000000 spline spline 1 1 0 0 1 0 1;
+ 27 0.789978 spline spline 1 1 0 -1.419515 1 -1.419515 1;
+ 29 0.789978 spline spline 1 1 0 1.443979 1 1.443979 1;
+ 35 1.000000 linear linear 1 1 0;
+ 35 1.000000 linear linear 1 1 0;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_5 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 35 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim translate.translateY translateY JOBJ_5 0 1 3;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 8.750000 spline spline 1 1 0 17.7165 1 17.7165 1;
+ 6 10.750000 spline spline 1 1 0 13.28339 1 13.28339 1;
+ 9 10.750000 spline spline 1 1 0 -13.28339 1 -13.28339 1;
+ 15 8.750000 linear linear 1 1 0;
+ 21 8.750000 spline spline 1 1 0 0 1 0 1;
+ 27 10.750000 spline spline 1 1 0 13.28339 1 13.28339 1;
+ 29 10.750000 spline spline 1 1 0 -13.61749 1 -13.61749 1;
+ 35 8.750000 linear linear 1 1 0;
+ 35 8.750000 linear linear 1 1 0;
+ }
+}
+anim translate.translateZ translateZ JOBJ_5 0 1 4;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 15.750000 linear linear 1 1 0;
+ 98 15.750000 spline spline 1 1 0 6.66489 1 6.66489 1;
+ }
+}
+anim rotate.rotateX rotateX JOBJ_6 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 auto step 1 1 0 0 1;
+ 35 0.000000 auto step 1 1 0 0 1;
+ }
+}
+anim translate.translateY translateY JOBJ_6 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 17.000000 spline spline 1 1 0 2.868684 1 2.868684 1;
+ 7 17.374020 spline spline 1 1 0 0 1 0 1;
+ 15 17.000000 spline spline 1 1 0 0 1 0 1;
+ 21 17.000000 spline spline 1 1 0 0 1 0 1;
+ 28 17.374020 spline spline 1 1 0 0.01748528 1 0.01748528 1;
+ 35 17.000000 linear linear 1 1 0;
+ 35 17.000000 linear linear 1 1 0;
+ }
+}
+anim translate.translateZ translateZ JOBJ_6 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 16.250000 auto step 1 1 0 0 1;
+ 35 16.250000 auto step 1 1 0 0 1;
+ }
+}
+anim JOBJ_7 0 1 0;
+anim JOBJ_8 0 1 0;
+anim JOBJ_9 0 1 0;
+anim JOBJ_10 0 1 0;
+anim JOBJ_11 0 1 0;
+anim translate.translateX translateX JOBJ_12 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 auto step 1 1 0 0 1;
+ 398 0.000000 auto step 1 1 0 0 1;
+ }
+}
+anim translate.translateY translateY JOBJ_12 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 5.750000 auto step 1 1 0 0 1;
+ 398 5.750000 auto step 1 1 0 0 1;
+ }
+}
+anim JOBJ_13 0 1 0;
+anim JOBJ_14 0 1 0;
+anim translate.translateX translateX JOBJ_15 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 auto step 1 1 0 0 1;
+ 102 0.000000 auto step 1 1 0 0 1;
+ }
+}
+anim translate.translateY translateY JOBJ_15 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 5.750000 auto step 1 1 0 0 1;
+ 102 5.750000 auto step 1 1 0 0 1;
+ }
+}

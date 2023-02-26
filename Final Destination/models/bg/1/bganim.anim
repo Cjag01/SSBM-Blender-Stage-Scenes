@@ -1,0 +1,169 @@
+animVersion 1.1;
+mayaVersion 2015;
+timeUnit ntscf;
+linearUnit cm;
+angularUnit rad;
+startTime 0;
+endTime 4001;
+anim JOBJ_0 0 1 0;
+anim scale.scaleX scaleX JOBJ_1 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 4000 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleY scaleY JOBJ_1 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 4000 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim scale.scaleZ scaleZ JOBJ_1 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 1.000000 auto step 1 1 0 0 1;
+ 4000 1.000000 auto step 1 1 0 0 1;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_2 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 linear linear 1 1 0;
+ 4000 12.566160 linear linear 1 1 0;
+ }
+}
+anim JOBJ_3 0 1 0;
+anim rotate.rotateY rotateY JOBJ_4 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 linear linear 1 1 0;
+ 4000 -6.282959 linear linear 1 1 0;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_5 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 linear linear 1 1 0;
+ 4000 -6.282959 linear linear 1 1 0;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_6 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 auto step 1 1 0 0 1;
+ 4000 0.000000 auto step 1 1 0 0 1;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_7 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 linear linear 1 1 0;
+ 4000 -6.282959 linear linear 1 1 0;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_8 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 linear linear 1 1 0;
+ 4000 -6.282959 linear linear 1 1 0;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_9 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 linear linear 1 1 0;
+ 4000 -6.282959 linear linear 1 1 0;
+ }
+}
+anim JOBJ_10 0 1 0;
+anim rotate.rotateY rotateY JOBJ_11 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 linear linear 1 1 0;
+ 4000 -75.398220 linear linear 1 1 0;
+ }
+}
+anim JOBJ_12 0 1 0;
+anim rotate.rotateY rotateY JOBJ_13 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -3.140625 linear linear 1 1 0;
+ 4000 -78.539060 linear linear 1 1 0;
+ }
+}
+anim JOBJ_14 0 1 0;
+anim rotate.rotateY rotateY JOBJ_15 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -3.140625 linear linear 1 1 0;
+ 4000 -78.539060 linear linear 1 1 0;
+ }
+}
+anim JOBJ_16 0 1 0;

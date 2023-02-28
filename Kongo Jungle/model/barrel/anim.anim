@@ -1,0 +1,45 @@
+animVersion 1.1;
+mayaVersion 2015;
+timeUnit ntscf;
+linearUnit cm;
+angularUnit rad;
+startTime 0;
+endTime 90;
+anim translate.translateX translateX JOBJ_0 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -95.734380 spline spline 1 1 0 0 1 0 1;
+ 44 -2.535156 spline spline 1 1 0 0 1 0 1;
+ 89 -95.734380 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim translate.translateY translateY JOBJ_0 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -55.691410 auto step 1 1 0 0 1;
+ 89 -55.691410 auto step 1 1 0 0 1;
+ }
+}
+anim translate.translateZ translateZ JOBJ_0 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 auto step 1 1 0 0 1;
+ 89 0.000000 auto step 1 1 0 0 1;
+ }
+}
+anim JOBJ_1 0 1 0;

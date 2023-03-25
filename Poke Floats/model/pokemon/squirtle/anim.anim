@@ -1,0 +1,56 @@
+animVersion 1.1;
+mayaVersion 2015;
+timeUnit ntscf;
+linearUnit cm;
+angularUnit rad;
+startTime 0;
+endTime 12501;
+anim JOBJ_0 0 1 0;
+anim JOBJ_1 0 1 0;
+anim JOBJ_2 0 1 0;
+anim JOBJ_3 0 1 0;
+anim rotate.rotateX rotateX JOBJ_4 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.097992 spline spline 1 1 0 0 1 0 1;
+ 300 0.097992 spline spline 1 1 0 0 1 0 1;
+ 325 0.209412 spline spline 1 1 0 0 1 0 1;
+ 356 0.097992 spline spline 1 1 0 0 1 0 1;
+ 364 0.209412 spline spline 1 1 0 0 1 0 1;
+ 380 0.097992 spline spline 1 1 0 0 1 0 1;
+ 500 0.097992 spline spline 1 1 0 0 1 0 1;
+ 520 0.157074 spline spline 1 1 0 0 1 0 1;
+ 550 0.097992 spline spline 1 1 0 0 1 0 1;
+ 570 0.097992 spline spline 1 1 0 0 1 0 1;
+ 590 0.261780 spline spline 1 1 0 0 1 0 1;
+ 630 0.097992 spline spline 1 1 0 0 1 0 1;
+ 670 0.097992 spline spline 1 1 0 0 1 0 1;
+ 680 0.157074 spline spline 1 1 0 0 1 0 1;
+ 700 0.097992 spline spline 1 1 0 0 1 0 1;
+ 12400 0.261780 spline spline 1 1 0 0 1 0 1;
+ 12475 0.226868 spline spline 1 1 0 0 1 0 1;
+ 12500 0.097992 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim JOBJ_5 0 1 0;
+anim JOBJ_6 0 1 0;
+anim JOBJ_7 0 1 0;
+anim JOBJ_8 0 1 0;
+anim JOBJ_9 0 1 0;
+anim JOBJ_10 0 1 0;
+anim JOBJ_11 0 1 0;
+anim JOBJ_12 0 1 0;
+anim JOBJ_13 0 1 0;
+anim JOBJ_14 0 1 0;
+anim JOBJ_15 0 1 0;
+anim JOBJ_16 0 1 0;
+anim JOBJ_17 0 1 0;
+anim JOBJ_18 0 1 0;
+anim JOBJ_19 0 1 0;
+anim JOBJ_20 0 1 0;
+anim JOBJ_21 0 1 0;

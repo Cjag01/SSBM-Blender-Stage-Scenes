@@ -1,0 +1,88 @@
+animVersion 1.1;
+mayaVersion 2015;
+timeUnit ntscf;
+linearUnit cm;
+angularUnit rad;
+startTime 0;
+endTime 12501;
+anim JOBJ_0 0 1 0;
+anim JOBJ_1 0 1 0;
+anim JOBJ_2 0 1 0;
+anim JOBJ_3 0 1 0;
+anim JOBJ_4 0 1 0;
+anim JOBJ_5 0 1 0;
+anim JOBJ_6 0 1 0;
+anim JOBJ_7 0 1 0;
+anim JOBJ_8 0 1 0;
+anim JOBJ_9 0 1 0;
+anim JOBJ_10 0 1 0;
+anim JOBJ_11 0 1 0;
+anim rotate.rotateX rotateX JOBJ_12 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 3.017090 spline spline 1 1 0 0 1 0 1;
+ 650 3.017090 spline spline 1 1 0 0 1 0 1;
+ 1050 -3.141357 spline spline 1 1 0 0 1 0 1;
+ 1464 2.888916 spline spline 1 1 0 0 1 0 1;
+ 1800 3.839600 spline spline 1 1 0 0 1 0 1;
+ 1900 3.839600 spline spline 1 1 0 0 1 0 1;
+ 2150 0.000000 spline spline 1 1 0 0 1 0 1;
+ 2675 5.235840 spline spline 1 1 0 0 1 0 1;
+ 3200 3.017090 spline spline 1 1 0 0 1 0 1;
+ 12500 3.017090 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim JOBJ_13 0 1 0;
+anim JOBJ_14 0 1 0;
+anim JOBJ_15 0 1 0;
+anim JOBJ_16 0 1 0;
+anim JOBJ_17 0 1 0;
+anim JOBJ_18 0 1 0;
+anim rotate.rotateX rotateX JOBJ_19 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 spline spline 1 1 0 0 1 0 1;
+ 650 0.000000 spline spline 1 1 0 0 1 0 1;
+ 900 -1.570557 spline spline 1 1 0 0 1 0 1;
+ 1100 0.523438 spline spline 1 1 0 0 1 0 1;
+ 1500 -4.188721 spline spline 1 1 0 0 1 0 1;
+ 1950 1.745117 spline spline 1 1 0 0 1 0 1;
+ 1970 1.745117 spline spline 1 1 0 0 1 0 1;
+ 2200 3.141357 spline spline 1 1 0 0 1 0 1;
+ 2600 -1.745117 spline spline 1 1 0 0 1 0 1;
+ 2800 2.792480 spline spline 1 1 0 0 1 0 1;
+ 3200 0.000000 spline spline 1 1 0 0 1 0 1;
+ 12500 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateX rotateX JOBJ_20 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.014893 spline spline 1 1 0 0 1 0 1;
+ 650 0.014893 spline spline 1 1 0 0 1 0 1;
+ 1000 -1.570557 spline spline 1 1 0 0 1 0 1;
+ 1400 3.141357 spline spline 1 1 0 0.1748523 1 0.1748523 1;
+ 1560 1.745117 spline spline 1 1 0 0 1 0 1;
+ 1925 6.282959 spline spline 1 1 0 0 1 0 1;
+ 2300 5.235840 spline spline 1 1 0 0 1 0 1;
+ 2700 -3.141357 spline spline 1 1 0 0 1 0 1;
+ 3000 1.570557 spline spline 1 1 0 0 1 0 1;
+ 3200 0.014893 spline spline 1 1 0 0 1 0 1;
+ 12500 0.014893 spline spline 1 1 0 0 1 0 1;
+ }
+}

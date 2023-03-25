@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.4.1" xmlns="http://www.collada.org/2005/11/COLLADASchema">
+    <asset>
+        <created>2023-03-22T12:18:30.4631832-04:00</created>
+        <modified>2023-03-22T12:18:30.4631832-04:00</modified>
+        <unit name="Meter" />
+        <contributor>
+            <authoring_tool>IONET Exporter</authoring_tool>
+        </contributor>
+    </asset>
+    <library_visual_scenes>
+        <visual_scene id="Scene" name="Scene">
+            <node id="JOBJ_0" sid="JOBJ_0" name="JOBJ_0" type="JOINT">
+                <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+                <node id="JOBJ_1" sid="JOBJ_1" name="JOBJ_1" type="JOINT">
+                    <matrix>9 0 0 -202.9419 0 9 0 -30 0 0 8.982 0 0 0 0 1</matrix>
+                </node>
+                <node id="JOBJ_2" sid="JOBJ_2" name="JOBJ_2" type="JOINT">
+                    <matrix>9.396926 3.420203 0 -200 -3.420203 9.396926 0 42 0 0 10 0 0 0 0 1</matrix>
+                </node>
+                <node id="JOBJ_3" sid="JOBJ_3" name="JOBJ_3" type="JOINT">
+                    <matrix>6 0 0 188 0 6 0 -60 0 0 6 0 0 0 0 1</matrix>
+                </node>
+                <node id="JOBJ_4" sid="JOBJ_4" name="JOBJ_4" type="JOINT">
+                    <matrix>11 0 0 -217 0 11 0 -8 0 0 11 0 0 0 0 1</matrix>
+                </node>
+                <node id="JOBJ_5" sid="JOBJ_5" name="JOBJ_5" type="JOINT">
+                    <matrix>2.2 0 0 212 0 2.2 0 42 0 0 2.2 0 0 0 0 1</matrix>
+                </node>
+                <node id="JOBJ_6" sid="JOBJ_6" name="JOBJ_6" type="JOINT">
+                    <matrix>8 0 0 -18 0 8 0 -140 0 0 8 0 0 0 0 1</matrix>
+                </node>
+                <node id="JOBJ_7" sid="JOBJ_7" name="JOBJ_7" type="JOINT">
+                    <matrix>16.80445 -6.450621 0 -45 6.450621 16.80445 0 -120 0 0 18 0 0 0 0 1</matrix>
+                </node>
+                <node id="JOBJ_8" sid="JOBJ_8" name="JOBJ_8" type="JOINT">
+                    <matrix>9 0 0 -50 0 9 0 -126 0 0 9 0 0 0 0 1</matrix>
+                </node>
+                <node id="JOBJ_9" sid="JOBJ_9" name="JOBJ_9" type="JOINT">
+                    <matrix>10 0 0 7 0 10 0 -130 0 0 10 0 0 0 0 1</matrix>
+                </node>
+                <node id="JOBJ_10" sid="JOBJ_10" name="JOBJ_10" type="JOINT">
+                    <matrix>15.03958 3.749788 0 187 -3.749788 15.03958 0 -129 0 0 15.5 0 0 0 0 1</matrix>
+                </node>
+                <node id="JOBJ_11" sid="JOBJ_11" name="JOBJ_11" type="JOINT">
+                    <matrix>4 0 0 150 0 4 0 45 0 0 4 0 0 0 0 1</matrix>
+                </node>
+                <node id="JOBJ_12" sid="JOBJ_12" name="JOBJ_12" type="JOINT">
+                    <matrix>4 0 0 151 0 4 0 54 0 0 4 0 0 0 0 1</matrix>
+                </node>
+                <node id="JOBJ_13" sid="JOBJ_13" name="JOBJ_13" type="JOINT">
+                    <matrix>4 0 0 151 0 4 0 44 0 0 4 0 0 0 0 1</matrix>
+                </node>
+                <node id="JOBJ_14" sid="JOBJ_14" name="JOBJ_14" type="JOINT">
+                    <matrix>8 0 0 165 0 8 0 -9 0 0 8 0 0 0 0 1</matrix>
+                </node>
+                <node id="JOBJ_15" sid="JOBJ_15" name="JOBJ_15" type="JOINT">
+                    <matrix>14 0 0 -20 0 14 0 -110 0 0 14 0 0 0 0 1</matrix>
+                </node>
+                <node id="JOBJ_16" sid="JOBJ_16" name="JOBJ_16" type="JOINT">
+                    <matrix>20 0 0 -150 0 20 0 82 0 0 20 0 0 0 0 1</matrix>
+                </node>
+                <node id="JOBJ_17" sid="JOBJ_17" name="JOBJ_17" type="JOINT">
+                    <matrix>19 0 0 -219 0 19 0 94 0 0 19 0 0 0 0 1</matrix>
+                </node>
+                <node id="JOBJ_18" sid="JOBJ_18" name="JOBJ_18" type="JOINT">
+                    <matrix>20 0 0 -176 0 20 0 79 0 0 20 0 0 0 0 1</matrix>
+                </node>
+                <node id="JOBJ_19" sid="JOBJ_19" name="JOBJ_19" type="JOINT">
+                    <matrix>20 0 0 200 0 20 0 45 0 0 20 0 0 0 0 1</matrix>
+                </node>
+                <node id="JOBJ_20" sid="JOBJ_20" name="JOBJ_20" type="JOINT">
+                    <matrix>20 0 0 200 0 20 0 45 0 0 20 0 0 0 0 1</matrix>
+                </node>
+                <node id="JOBJ_21" sid="JOBJ_21" name="JOBJ_21" type="JOINT">
+                    <matrix>22 0 0 -156 0 22 0 25 0 0 22 0 0 0 0 1</matrix>
+                </node>
+                <node id="JOBJ_22" sid="JOBJ_22" name="JOBJ_22" type="JOINT">
+                    <matrix>20 0 0 -156 0 20 0 25 0 0 20 0 0 0 0 1</matrix>
+                </node>
+                <node id="JOBJ_23" sid="JOBJ_23" name="JOBJ_23" type="JOINT">
+                    <matrix>19 0 0 -95 0 19 0 -110 0 0 19 0 0 0 0 1</matrix>
+                </node>
+                <node id="JOBJ_24" sid="JOBJ_24" name="JOBJ_24" type="JOINT">
+                    <matrix>18 0 0 -95 0 18 0 -183 0 0 18 0 0 0 0 1</matrix>
+                </node>
+                <node id="JOBJ_25" sid="JOBJ_25" name="JOBJ_25" type="JOINT">
+                    <matrix>10 0 0 -227 0 10 0 -25 0 0 10 0 0 0 0 1</matrix>
+                </node>
+                <node id="JOBJ_26" sid="JOBJ_26" name="JOBJ_26" type="JOINT">
+                    <matrix>35 0 0 0 0 35 0 -35 0 0 35 0 0 0 0 1</matrix>
+                </node>
+            </node>
+        </visual_scene>
+    </library_visual_scenes>
+    <scene>
+        <instance_visual_scene url="#Scene" />
+    </scene>
+</COLLADA>

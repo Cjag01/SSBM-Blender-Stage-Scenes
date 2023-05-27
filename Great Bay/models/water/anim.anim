@@ -1,0 +1,27 @@
+animVersion 1.1;
+mayaVersion 2015;
+timeUnit ntscf;
+linearUnit cm;
+angularUnit rad;
+startTime 0;
+endTime 1200;
+anim JOBJ_0 0 1 0;
+anim rotate.rotateZ rotateZ JOBJ_1 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.006958 spline spline 1 1 0 0 1 0 1;
+ 149 -0.006958 spline spline 1 1 0 0 1 0 1;
+ 299 0.006958 spline spline 1 1 0 0 1 0 1;
+ 449 -0.006958 spline spline 1 1 0 0 1 0 1;
+ 599 0.006958 spline spline 1 1 0 0 1 0 1;
+ 726 -0.006958 spline spline 1 1 0 0 1 0 1;
+ 899 0.006958 spline spline 1 1 0 0 1 0 1;
+ 1061 -0.006958 spline spline 1 1 0 0 1 0 1;
+ 1199 0.006958 spline spline 1 1 0 0 1 0 1;
+ }
+}

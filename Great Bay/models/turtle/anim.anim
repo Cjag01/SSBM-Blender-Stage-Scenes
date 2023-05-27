@@ -1,0 +1,1496 @@
+animVersion 1.1;
+mayaVersion 2015;
+timeUnit ntscf;
+linearUnit cm;
+angularUnit rad;
+startTime 0;
+endTime 387;
+anim JOBJ_0 0 1 0;
+anim JOBJ_1 0 1 0;
+anim translate.translateX translateX JOBJ_2 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 linear linear 1 1 0;
+ 1 0.000000 linear linear 1 1 0;
+ 2 0.000000 linear linear 1 1 0;
+ 3 0.000000 linear linear 1 1 0;
+ 4 0.000000 linear linear 1 1 0;
+ 5 0.000000 linear linear 1 1 0;
+ 6 0.000000 linear linear 1 1 0;
+ 7 0.000000 linear linear 1 1 0;
+ 8 0.000000 linear linear 1 1 0;
+ 9 0.000000 linear linear 1 1 0;
+ 10 0.000000 linear linear 1 1 0;
+ 11 0.000000 linear linear 1 1 0;
+ 12 0.000000 linear linear 1 1 0;
+ 13 0.000000 linear linear 1 1 0;
+ 14 0.000000 linear linear 1 1 0;
+ 15 0.000000 linear linear 1 1 0;
+ 16 0.000000 linear linear 1 1 0;
+ 17 0.000000 linear linear 1 1 0;
+ 18 0.000000 linear linear 1 1 0;
+ 19 0.000000 linear linear 1 1 0;
+ 20 0.000000 linear linear 1 1 0;
+ 21 0.000000 linear linear 1 1 0;
+ 22 0.000000 linear linear 1 1 0;
+ 23 0.000000 linear linear 1 1 0;
+ 24 0.000000 linear linear 1 1 0;
+ 25 0.000000 linear linear 1 1 0;
+ 26 0.000000 linear linear 1 1 0;
+ 27 0.000000 linear linear 1 1 0;
+ 28 0.000000 linear linear 1 1 0;
+ 29 0.000000 linear linear 1 1 0;
+ 30 0.000000 linear linear 1 1 0;
+ 31 0.000000 linear linear 1 1 0;
+ 32 0.000000 linear linear 1 1 0;
+ 33 0.000000 linear linear 1 1 0;
+ 34 0.000000 linear linear 1 1 0;
+ 35 0.000000 linear linear 1 1 0;
+ 36 0.000000 linear linear 1 1 0;
+ 37 0.000000 linear linear 1 1 0;
+ 38 0.000000 linear linear 1 1 0;
+ 39 0.000000 linear linear 1 1 0;
+ 40 0.000000 linear linear 1 1 0;
+ 41 0.000000 linear linear 1 1 0;
+ 42 0.000000 linear linear 1 1 0;
+ 43 0.000000 linear linear 1 1 0;
+ 44 0.000000 linear linear 1 1 0;
+ 45 0.000000 linear linear 1 1 0;
+ 46 0.000000 linear linear 1 1 0;
+ 47 0.000000 linear linear 1 1 0;
+ 48 0.000000 linear linear 1 1 0;
+ 49 0.000000 linear linear 1 1 0;
+ 50 0.000000 linear linear 1 1 0;
+ 51 0.000000 linear linear 1 1 0;
+ 52 0.000000 linear linear 1 1 0;
+ 53 0.000000 linear linear 1 1 0;
+ 54 0.000000 linear linear 1 1 0;
+ 55 0.000000 linear linear 1 1 0;
+ 56 0.000000 linear linear 1 1 0;
+ 57 0.000000 linear linear 1 1 0;
+ 58 0.000000 linear linear 1 1 0;
+ 59 0.000000 linear linear 1 1 0;
+ 60 0.000000 linear linear 1 1 0;
+ 61 0.000000 linear linear 1 1 0;
+ 62 0.000000 linear linear 1 1 0;
+ 63 0.000000 linear linear 1 1 0;
+ 64 0.000000 linear linear 1 1 0;
+ 65 0.000000 linear linear 1 1 0;
+ 66 0.000000 linear linear 1 1 0;
+ 67 0.000000 linear linear 1 1 0;
+ 68 0.000000 linear linear 1 1 0;
+ 69 0.000000 linear linear 1 1 0;
+ 70 0.000000 linear linear 1 1 0;
+ 71 0.000000 linear linear 1 1 0;
+ 72 0.000000 linear linear 1 1 0;
+ 73 0.000000 linear linear 1 1 0;
+ 74 0.000000 linear linear 1 1 0;
+ 75 0.000000 linear linear 1 1 0;
+ 76 0.000000 linear linear 1 1 0;
+ 77 0.000000 linear linear 1 1 0;
+ 78 0.000000 linear linear 1 1 0;
+ 79 0.000000 linear linear 1 1 0;
+ 80 0.000000 linear linear 1 1 0;
+ 81 0.000000 linear linear 1 1 0;
+ 82 0.000000 linear linear 1 1 0;
+ 83 0.000000 linear linear 1 1 0;
+ 84 0.000000 linear linear 1 1 0;
+ 85 0.000000 linear linear 1 1 0;
+ 86 0.000000 linear linear 1 1 0;
+ 87 0.000000 linear linear 1 1 0;
+ 88 0.000000 linear linear 1 1 0;
+ 89 0.000000 linear linear 1 1 0;
+ 90 0.000000 linear linear 1 1 0;
+ 91 0.000000 linear linear 1 1 0;
+ 92 0.000000 linear linear 1 1 0;
+ 93 0.000000 linear linear 1 1 0;
+ 94 0.000000 linear linear 1 1 0;
+ 95 0.000000 linear linear 1 1 0;
+ 96 0.000000 linear linear 1 1 0;
+ 97 0.000000 linear linear 1 1 0;
+ 98 0.000000 linear linear 1 1 0;
+ 99 0.000000 linear linear 1 1 0;
+ 100 0.000000 linear linear 1 1 0;
+ 101 0.000000 linear linear 1 1 0;
+ 102 0.000000 linear linear 1 1 0;
+ 103 0.000000 linear linear 1 1 0;
+ 104 0.000000 linear linear 1 1 0;
+ 105 0.000000 linear linear 1 1 0;
+ 106 0.000000 linear linear 1 1 0;
+ 107 0.000000 linear linear 1 1 0;
+ 108 0.000000 linear linear 1 1 0;
+ 109 0.000000 linear linear 1 1 0;
+ 110 0.000000 linear linear 1 1 0;
+ 111 0.000000 linear linear 1 1 0;
+ 112 0.000000 linear linear 1 1 0;
+ 113 0.000000 linear linear 1 1 0;
+ 114 0.000000 linear linear 1 1 0;
+ 115 0.000000 linear linear 1 1 0;
+ 116 0.000000 linear linear 1 1 0;
+ 117 0.000000 linear linear 1 1 0;
+ 118 0.000000 linear linear 1 1 0;
+ 119 0.000000 linear linear 1 1 0;
+ 120 0.000000 linear linear 1 1 0;
+ 121 0.000000 linear linear 1 1 0;
+ 122 0.000000 linear linear 1 1 0;
+ 123 0.000000 linear linear 1 1 0;
+ 124 0.000000 linear linear 1 1 0;
+ 125 0.000000 linear linear 1 1 0;
+ 126 0.000000 linear linear 1 1 0;
+ 127 0.000000 linear linear 1 1 0;
+ 128 0.000000 linear linear 1 1 0;
+ 129 0.000000 linear linear 1 1 0;
+ 130 0.000000 linear linear 1 1 0;
+ 131 0.000000 linear linear 1 1 0;
+ 132 0.000000 linear linear 1 1 0;
+ 133 0.000000 linear linear 1 1 0;
+ 134 0.000000 linear linear 1 1 0;
+ 135 0.000000 linear linear 1 1 0;
+ 136 0.000000 linear linear 1 1 0;
+ 137 0.000000 linear linear 1 1 0;
+ 138 0.000000 linear linear 1 1 0;
+ 139 0.000000 linear linear 1 1 0;
+ 140 0.000000 linear linear 1 1 0;
+ 141 0.000000 linear linear 1 1 0;
+ 142 0.000000 linear linear 1 1 0;
+ 143 0.000000 linear linear 1 1 0;
+ 144 0.000000 linear linear 1 1 0;
+ 145 0.000000 linear linear 1 1 0;
+ 146 0.000000 linear linear 1 1 0;
+ 147 0.000000 linear linear 1 1 0;
+ 148 0.000000 linear linear 1 1 0;
+ 149 0.000000 linear linear 1 1 0;
+ 150 0.000000 linear linear 1 1 0;
+ 151 0.000000 linear linear 1 1 0;
+ 152 0.000000 linear linear 1 1 0;
+ 153 0.000000 linear linear 1 1 0;
+ 154 0.000000 linear linear 1 1 0;
+ 155 0.000000 linear linear 1 1 0;
+ 156 0.000000 linear linear 1 1 0;
+ 157 0.000000 linear linear 1 1 0;
+ 158 0.000000 linear linear 1 1 0;
+ 159 0.000000 linear linear 1 1 0;
+ 160 0.000000 auto step 1 1 0 0 1;
+ }
+}
+anim translate.translateY translateY JOBJ_2 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 linear linear 1 1 0;
+ 1 0.000000 linear linear 1 1 0;
+ 2 0.000000 linear linear 1 1 0;
+ 3 0.000000 linear linear 1 1 0;
+ 4 0.000000 linear linear 1 1 0;
+ 5 0.000000 linear linear 1 1 0;
+ 6 0.000000 linear linear 1 1 0;
+ 7 0.000000 linear linear 1 1 0;
+ 8 0.000000 linear linear 1 1 0;
+ 9 0.000000 linear linear 1 1 0;
+ 10 0.000000 linear linear 1 1 0;
+ 11 0.000000 linear linear 1 1 0;
+ 12 0.000000 linear linear 1 1 0;
+ 13 0.000000 linear linear 1 1 0;
+ 14 0.000000 linear linear 1 1 0;
+ 15 0.000000 linear linear 1 1 0;
+ 16 0.000000 linear linear 1 1 0;
+ 17 0.000000 linear linear 1 1 0;
+ 18 0.000000 linear linear 1 1 0;
+ 19 0.000000 linear linear 1 1 0;
+ 20 0.000000 linear linear 1 1 0;
+ 21 0.000000 linear linear 1 1 0;
+ 22 0.000000 linear linear 1 1 0;
+ 23 0.000000 linear linear 1 1 0;
+ 24 0.000000 linear linear 1 1 0;
+ 25 0.000000 linear linear 1 1 0;
+ 26 0.000000 linear linear 1 1 0;
+ 27 0.000000 linear linear 1 1 0;
+ 28 0.000000 linear linear 1 1 0;
+ 29 0.000000 linear linear 1 1 0;
+ 30 0.000000 linear linear 1 1 0;
+ 31 0.000000 linear linear 1 1 0;
+ 32 0.000000 linear linear 1 1 0;
+ 33 0.000000 linear linear 1 1 0;
+ 34 0.000000 linear linear 1 1 0;
+ 35 0.000000 linear linear 1 1 0;
+ 36 0.000000 linear linear 1 1 0;
+ 37 0.000000 linear linear 1 1 0;
+ 38 0.000000 linear linear 1 1 0;
+ 39 0.000000 linear linear 1 1 0;
+ 40 0.000000 linear linear 1 1 0;
+ 41 0.000000 linear linear 1 1 0;
+ 42 0.000000 linear linear 1 1 0;
+ 43 0.000000 linear linear 1 1 0;
+ 44 0.000000 linear linear 1 1 0;
+ 45 0.000000 linear linear 1 1 0;
+ 46 0.000000 linear linear 1 1 0;
+ 47 0.000000 linear linear 1 1 0;
+ 48 0.000000 linear linear 1 1 0;
+ 49 0.000000 linear linear 1 1 0;
+ 50 0.000000 linear linear 1 1 0;
+ 51 0.000000 linear linear 1 1 0;
+ 52 0.000000 linear linear 1 1 0;
+ 53 0.000000 linear linear 1 1 0;
+ 54 0.000000 linear linear 1 1 0;
+ 55 0.000000 linear linear 1 1 0;
+ 56 0.000000 linear linear 1 1 0;
+ 57 0.000000 linear linear 1 1 0;
+ 58 0.000000 linear linear 1 1 0;
+ 59 0.000000 linear linear 1 1 0;
+ 60 0.000000 linear linear 1 1 0;
+ 61 0.000000 linear linear 1 1 0;
+ 62 0.000000 linear linear 1 1 0;
+ 63 0.000000 linear linear 1 1 0;
+ 64 0.000000 linear linear 1 1 0;
+ 65 0.000000 linear linear 1 1 0;
+ 66 0.000000 linear linear 1 1 0;
+ 67 0.000000 linear linear 1 1 0;
+ 68 0.000000 linear linear 1 1 0;
+ 69 0.000000 linear linear 1 1 0;
+ 70 0.000000 linear linear 1 1 0;
+ 71 0.000000 linear linear 1 1 0;
+ 72 0.000000 linear linear 1 1 0;
+ 73 0.000000 linear linear 1 1 0;
+ 74 0.000000 linear linear 1 1 0;
+ 75 0.000000 linear linear 1 1 0;
+ 76 0.000000 linear linear 1 1 0;
+ 77 0.000000 linear linear 1 1 0;
+ 78 0.000000 linear linear 1 1 0;
+ 79 0.000000 linear linear 1 1 0;
+ 80 0.000000 linear linear 1 1 0;
+ 81 0.000000 linear linear 1 1 0;
+ 82 0.000000 linear linear 1 1 0;
+ 83 0.000000 linear linear 1 1 0;
+ 84 0.000000 linear linear 1 1 0;
+ 85 0.000000 linear linear 1 1 0;
+ 86 0.000000 linear linear 1 1 0;
+ 87 0.000000 linear linear 1 1 0;
+ 88 0.000000 linear linear 1 1 0;
+ 89 0.000000 linear linear 1 1 0;
+ 90 0.000000 linear linear 1 1 0;
+ 91 0.000000 linear linear 1 1 0;
+ 92 0.000000 linear linear 1 1 0;
+ 93 0.000000 linear linear 1 1 0;
+ 94 0.000000 linear linear 1 1 0;
+ 95 0.000000 linear linear 1 1 0;
+ 96 0.000000 linear linear 1 1 0;
+ 97 0.000000 linear linear 1 1 0;
+ 98 0.000000 linear linear 1 1 0;
+ 99 0.000000 linear linear 1 1 0;
+ 100 0.000000 linear linear 1 1 0;
+ 101 0.000000 linear linear 1 1 0;
+ 102 0.000000 linear linear 1 1 0;
+ 103 0.000000 linear linear 1 1 0;
+ 104 0.000000 linear linear 1 1 0;
+ 105 0.000000 linear linear 1 1 0;
+ 106 0.000000 linear linear 1 1 0;
+ 107 0.000000 linear linear 1 1 0;
+ 108 0.000000 linear linear 1 1 0;
+ 109 0.000000 linear linear 1 1 0;
+ 110 0.000000 linear linear 1 1 0;
+ 111 0.000000 linear linear 1 1 0;
+ 112 0.000000 linear linear 1 1 0;
+ 113 0.000000 linear linear 1 1 0;
+ 114 0.000000 linear linear 1 1 0;
+ 115 0.000000 linear linear 1 1 0;
+ 116 0.000000 linear linear 1 1 0;
+ 117 0.000000 linear linear 1 1 0;
+ 118 0.000000 linear linear 1 1 0;
+ 119 0.000000 linear linear 1 1 0;
+ 120 0.000000 linear linear 1 1 0;
+ 121 0.000000 linear linear 1 1 0;
+ 122 0.000000 linear linear 1 1 0;
+ 123 0.000000 linear linear 1 1 0;
+ 124 0.000000 linear linear 1 1 0;
+ 125 0.000000 linear linear 1 1 0;
+ 126 0.000000 linear linear 1 1 0;
+ 127 0.000000 linear linear 1 1 0;
+ 128 0.000000 linear linear 1 1 0;
+ 129 0.000000 linear linear 1 1 0;
+ 130 0.000000 linear linear 1 1 0;
+ 131 0.000000 linear linear 1 1 0;
+ 132 0.000000 linear linear 1 1 0;
+ 133 0.000000 linear linear 1 1 0;
+ 134 0.000000 linear linear 1 1 0;
+ 135 0.000000 linear linear 1 1 0;
+ 136 0.000000 linear linear 1 1 0;
+ 137 0.000000 linear linear 1 1 0;
+ 138 0.000000 linear linear 1 1 0;
+ 139 0.000000 linear linear 1 1 0;
+ 140 0.000000 linear linear 1 1 0;
+ 141 0.000000 linear linear 1 1 0;
+ 142 0.000000 linear linear 1 1 0;
+ 143 0.000000 linear linear 1 1 0;
+ 144 0.000000 linear linear 1 1 0;
+ 145 0.000000 linear linear 1 1 0;
+ 146 0.000000 linear linear 1 1 0;
+ 147 0.000000 linear linear 1 1 0;
+ 148 0.000000 linear linear 1 1 0;
+ 149 0.000000 linear linear 1 1 0;
+ 150 0.000000 linear linear 1 1 0;
+ 151 0.000000 linear linear 1 1 0;
+ 152 0.000000 linear linear 1 1 0;
+ 153 0.000000 linear linear 1 1 0;
+ 154 0.000000 linear linear 1 1 0;
+ 155 0.000000 linear linear 1 1 0;
+ 156 0.000000 linear linear 1 1 0;
+ 157 0.000000 linear linear 1 1 0;
+ 158 0.000000 linear linear 1 1 0;
+ 159 0.000000 linear linear 1 1 0;
+ 160 0.000000 auto step 1 1 0 0 1;
+ }
+}
+anim translate.translateZ translateZ JOBJ_2 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 linear linear 1 1 0;
+ 1 0.000000 linear linear 1 1 0;
+ 2 0.000000 linear linear 1 1 0;
+ 3 0.000000 linear linear 1 1 0;
+ 4 0.000000 linear linear 1 1 0;
+ 5 0.000000 linear linear 1 1 0;
+ 6 0.000000 linear linear 1 1 0;
+ 7 0.000000 linear linear 1 1 0;
+ 8 0.000000 linear linear 1 1 0;
+ 9 0.000000 linear linear 1 1 0;
+ 10 0.000000 linear linear 1 1 0;
+ 11 0.000000 linear linear 1 1 0;
+ 12 0.000000 linear linear 1 1 0;
+ 13 0.000000 linear linear 1 1 0;
+ 14 0.000000 linear linear 1 1 0;
+ 15 0.000000 linear linear 1 1 0;
+ 16 0.000000 linear linear 1 1 0;
+ 17 0.000000 linear linear 1 1 0;
+ 18 0.000000 linear linear 1 1 0;
+ 19 0.000000 linear linear 1 1 0;
+ 20 0.000000 linear linear 1 1 0;
+ 21 0.000000 linear linear 1 1 0;
+ 22 0.000000 linear linear 1 1 0;
+ 23 0.000000 linear linear 1 1 0;
+ 24 0.000000 linear linear 1 1 0;
+ 25 0.000000 linear linear 1 1 0;
+ 26 0.000000 linear linear 1 1 0;
+ 27 0.000000 linear linear 1 1 0;
+ 28 0.000000 linear linear 1 1 0;
+ 29 0.000000 linear linear 1 1 0;
+ 30 0.000000 linear linear 1 1 0;
+ 31 0.000000 linear linear 1 1 0;
+ 32 0.000000 linear linear 1 1 0;
+ 33 0.000000 linear linear 1 1 0;
+ 34 0.000000 linear linear 1 1 0;
+ 35 0.000000 linear linear 1 1 0;
+ 36 0.000000 linear linear 1 1 0;
+ 37 0.000000 linear linear 1 1 0;
+ 38 0.000000 linear linear 1 1 0;
+ 39 0.000000 linear linear 1 1 0;
+ 40 0.000000 linear linear 1 1 0;
+ 41 0.000000 linear linear 1 1 0;
+ 42 0.000000 linear linear 1 1 0;
+ 43 0.000000 linear linear 1 1 0;
+ 44 0.000000 linear linear 1 1 0;
+ 45 0.000000 linear linear 1 1 0;
+ 46 0.000000 linear linear 1 1 0;
+ 47 0.000000 linear linear 1 1 0;
+ 48 0.000000 linear linear 1 1 0;
+ 49 0.000000 linear linear 1 1 0;
+ 50 0.000000 linear linear 1 1 0;
+ 51 0.000000 linear linear 1 1 0;
+ 52 0.000000 linear linear 1 1 0;
+ 53 0.000000 linear linear 1 1 0;
+ 54 0.000000 linear linear 1 1 0;
+ 55 0.000000 linear linear 1 1 0;
+ 56 0.000000 linear linear 1 1 0;
+ 57 0.000000 linear linear 1 1 0;
+ 58 0.000000 linear linear 1 1 0;
+ 59 0.000000 linear linear 1 1 0;
+ 60 0.000000 linear linear 1 1 0;
+ 61 0.000000 linear linear 1 1 0;
+ 62 0.000000 linear linear 1 1 0;
+ 63 0.000000 linear linear 1 1 0;
+ 64 0.000000 linear linear 1 1 0;
+ 65 0.000000 linear linear 1 1 0;
+ 66 0.000000 linear linear 1 1 0;
+ 67 0.000000 linear linear 1 1 0;
+ 68 0.000000 linear linear 1 1 0;
+ 69 0.000000 linear linear 1 1 0;
+ 70 0.000000 linear linear 1 1 0;
+ 71 0.000000 linear linear 1 1 0;
+ 72 0.000000 linear linear 1 1 0;
+ 73 0.000000 linear linear 1 1 0;
+ 74 0.000000 linear linear 1 1 0;
+ 75 0.000000 linear linear 1 1 0;
+ 76 0.000000 linear linear 1 1 0;
+ 77 0.000000 linear linear 1 1 0;
+ 78 0.000000 linear linear 1 1 0;
+ 79 0.000000 linear linear 1 1 0;
+ 80 0.000000 linear linear 1 1 0;
+ 81 0.000000 linear linear 1 1 0;
+ 82 0.000000 linear linear 1 1 0;
+ 83 0.000000 linear linear 1 1 0;
+ 84 0.000000 linear linear 1 1 0;
+ 85 0.000000 linear linear 1 1 0;
+ 86 0.000000 linear linear 1 1 0;
+ 87 0.000000 linear linear 1 1 0;
+ 88 0.000000 linear linear 1 1 0;
+ 89 0.000000 linear linear 1 1 0;
+ 90 0.000000 linear linear 1 1 0;
+ 91 0.000000 linear linear 1 1 0;
+ 92 0.000000 linear linear 1 1 0;
+ 93 0.000000 linear linear 1 1 0;
+ 94 0.000000 linear linear 1 1 0;
+ 95 0.000000 linear linear 1 1 0;
+ 96 0.000000 linear linear 1 1 0;
+ 97 0.000000 linear linear 1 1 0;
+ 98 0.000000 linear linear 1 1 0;
+ 99 0.000000 linear linear 1 1 0;
+ 100 0.000000 linear linear 1 1 0;
+ 101 0.000000 linear linear 1 1 0;
+ 102 0.000000 linear linear 1 1 0;
+ 103 0.000000 linear linear 1 1 0;
+ 104 0.000000 linear linear 1 1 0;
+ 105 0.000000 linear linear 1 1 0;
+ 106 0.000000 linear linear 1 1 0;
+ 107 0.000000 linear linear 1 1 0;
+ 108 0.000000 linear linear 1 1 0;
+ 109 0.000000 linear linear 1 1 0;
+ 110 0.000000 linear linear 1 1 0;
+ 111 0.000000 linear linear 1 1 0;
+ 112 0.000000 linear linear 1 1 0;
+ 113 0.000000 linear linear 1 1 0;
+ 114 0.000000 linear linear 1 1 0;
+ 115 0.000000 linear linear 1 1 0;
+ 116 0.000000 linear linear 1 1 0;
+ 117 0.000000 linear linear 1 1 0;
+ 118 0.000000 linear linear 1 1 0;
+ 119 0.000000 linear linear 1 1 0;
+ 120 0.000000 linear linear 1 1 0;
+ 121 0.000000 linear linear 1 1 0;
+ 122 0.000000 linear linear 1 1 0;
+ 123 0.000000 linear linear 1 1 0;
+ 124 0.000000 linear linear 1 1 0;
+ 125 0.000000 linear linear 1 1 0;
+ 126 0.000000 linear linear 1 1 0;
+ 127 0.000000 linear linear 1 1 0;
+ 128 0.000000 linear linear 1 1 0;
+ 129 0.000000 linear linear 1 1 0;
+ 130 0.000000 linear linear 1 1 0;
+ 131 0.000000 linear linear 1 1 0;
+ 132 0.000000 linear linear 1 1 0;
+ 133 0.000000 linear linear 1 1 0;
+ 134 0.000000 linear linear 1 1 0;
+ 135 0.000000 linear linear 1 1 0;
+ 136 0.000000 linear linear 1 1 0;
+ 137 0.000000 linear linear 1 1 0;
+ 138 0.000000 linear linear 1 1 0;
+ 139 0.000000 linear linear 1 1 0;
+ 140 0.000000 linear linear 1 1 0;
+ 141 0.000000 linear linear 1 1 0;
+ 142 0.000000 linear linear 1 1 0;
+ 143 0.000000 linear linear 1 1 0;
+ 144 0.000000 linear linear 1 1 0;
+ 145 0.000000 linear linear 1 1 0;
+ 146 0.000000 linear linear 1 1 0;
+ 147 0.000000 linear linear 1 1 0;
+ 148 0.000000 linear linear 1 1 0;
+ 149 0.000000 linear linear 1 1 0;
+ 150 0.000000 linear linear 1 1 0;
+ 151 0.000000 linear linear 1 1 0;
+ 152 0.000000 linear linear 1 1 0;
+ 153 0.000000 linear linear 1 1 0;
+ 154 0.000000 linear linear 1 1 0;
+ 155 0.000000 linear linear 1 1 0;
+ 156 0.000000 linear linear 1 1 0;
+ 157 0.000000 linear linear 1 1 0;
+ 158 0.000000 linear linear 1 1 0;
+ 159 0.000000 linear linear 1 1 0;
+ 160 0.000000 auto step 1 1 0 0 1;
+ }
+}
+anim rotate.rotateX rotateX JOBJ_3 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 spline spline 1 1 0 0 1 0 1;
+ 40 0.006897 spline spline 1 1 0 0 1 0 1;
+ 80 0.000000 spline spline 1 1 0 0 1 0 1;
+ 120 -0.006897 spline spline 1 1 0 0 1 0 1;
+ 160 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_3 0 1 1;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 auto step 1 1 0 0 1;
+ 386 0.000000 auto step 1 1 0 0 1;
+ }
+}
+anim rotate.rotateZ rotateZ JOBJ_3 0 1 2;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 spline spline 1 1 0 0 1 0 1;
+ 80 0.012207 spline spline 1 1 0 0 1 0 1;
+ 110 0.003479 spline spline 1 1 0 0 1 0 1;
+ 160 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim JOBJ_4 0 1 0;
+anim rotate.rotateX rotateX JOBJ_5 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.342835 spline spline 1 1 0 0 1 0 1;
+ 50 0.453766 spline spline 1 1 0 0 1 0 1;
+ 160 0.342835 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_5 0 1 1;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -0.227661 auto step 1 1 0 0 1;
+ 160 -0.227661 auto step 1 1 0 0 1;
+ }
+}
+anim rotate.rotateZ rotateZ JOBJ_5 0 1 2;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -0.013672 auto step 1 1 0 0 1;
+ 160 -0.013672 auto step 1 1 0 0 1;
+ }
+}
+anim rotate.rotateX rotateX JOBJ_6 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.059998 auto step 1 1 0 0 1;
+ 160 0.059998 auto step 1 1 0 0 1;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_6 0 1 1;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.909973 spline spline 1 1 0 0 1 0 1;
+ 55 0.959930 spline spline 1 1 0 0 1 0 1;
+ 160 0.909973 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateZ rotateZ JOBJ_6 0 1 2;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 spline spline 1 1 0 0 1 0 1;
+ 55 -0.034851 spline spline 1 1 0 0 1 0 1;
+ 160 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateX rotateX JOBJ_7 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.103394 spline spline 1 1 0 0.05944994 1 0.05944994 1;
+ 25 0.103394 spline spline 1 1 0 -0.1258938 1 -0.1258938 1;
+ 55 -0.034851 spline spline 1 1 0 -0.08043226 1 -0.08043226 1;
+ 160 0.103394 spline spline 1 1 0 0.05944994 1 0.05944994 1;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_7 0 1 1;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.258667 spline spline 1 1 0 0 1 0 1;
+ 25 0.258667 spline spline 1 1 0 0 1 0 1;
+ 55 0.279236 spline spline 1 1 0 0 1 0 1;
+ 160 0.258667 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateZ rotateZ JOBJ_7 0 1 2;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.026550 auto step 1 1 0 0 1;
+ 160 0.026550 auto step 1 1 0 0 1;
+ }
+}
+anim rotate.rotateX rotateX JOBJ_8 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.191223 auto step 1 1 0 0 1;
+ 160 0.191223 auto step 1 1 0 0 1;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_8 0 1 1;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -0.550964 auto step 1 1 0 0 1;
+ 160 -0.550964 auto step 1 1 0 0 1;
+ }
+}
+anim rotate.rotateZ rotateZ JOBJ_8 0 1 2;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -0.354187 spline spline 1 1 0 0 1 0 1;
+ 55 -0.436279 spline spline 1 1 0 0 1 0 1;
+ 160 -0.354187 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateX rotateX JOBJ_9 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.399994 spline spline 1 1 0 0 1 0 1;
+ 60 0.436310 spline spline 1 1 0 0 1 0 1;
+ 160 0.399994 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_9 0 1 1;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.209992 spline spline 1 1 0 0 1 0 1;
+ 60 0.279236 spline spline 1 1 0 0 1 0 1;
+ 160 0.209992 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateZ rotateZ JOBJ_9 0 1 2;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 auto step 1 1 0 0 1;
+ 160 0.000000 auto step 1 1 0 0 1;
+ }
+}
+anim rotate.rotateX rotateX JOBJ_10 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 auto step 1 1 0 0 1;
+ 160 0.000000 auto step 1 1 0 0 1;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_10 0 1 1;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.398438 auto step 1 1 0 0 1;
+ 160 0.398438 auto step 1 1 0 0 1;
+ }
+}
+anim rotate.rotateZ rotateZ JOBJ_10 0 1 2;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 spline spline 1 1 0 0 1 0 1;
+ 65 -0.122131 spline spline 1 1 0 0 1 0 1;
+ 160 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateX rotateX JOBJ_11 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 spline spline 1 1 0 0 1 0 1;
+ 80 0.000000 spline spline 1 1 0 0 1 0 1;
+ 160 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_11 0 1 1;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 spline spline 1 1 0 0 1 0 1;
+ 80 0.000000 spline spline 1 1 0 0 1 0 1;
+ 160 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateZ rotateZ JOBJ_11 0 1 2;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -0.609985 spline spline 1 1 0 0 1 0 1;
+ 80 -0.596130 spline spline 1 1 0 0 1 0 1;
+ 160 -0.609985 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateX rotateX JOBJ_12 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 spline spline 1 1 0 0 1 0 1;
+ 90 0.000000 spline spline 1 1 0 0 1 0 1;
+ 160 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_12 0 1 1;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 spline spline 1 1 0 0 1 0 1;
+ 90 0.000000 spline spline 1 1 0 0 1 0 1;
+ 160 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateZ rotateZ JOBJ_12 0 1 2;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.199982 spline spline 1 1 0 0 1 0 1;
+ 90 0.207947 spline spline 1 1 0 0 1 0 1;
+ 160 0.199982 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateX rotateX JOBJ_13 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 spline spline 1 1 0 0 1 0 1;
+ 100 0.000000 spline spline 1 1 0 0 1 0 1;
+ 160 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_13 0 1 1;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 spline spline 1 1 0 0 1 0 1;
+ 100 0.000000 spline spline 1 1 0 0 1 0 1;
+ 160 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateZ rotateZ JOBJ_13 0 1 2;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.869995 spline spline 1 1 0 0 1 0 1;
+ 100 0.875397 spline spline 1 1 0 0 1 0 1;
+ 160 0.869995 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateX rotateX JOBJ_14 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 auto step 1 1 0 0 1;
+ 160 0.000000 auto step 1 1 0 0 1;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_14 0 1 1;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 auto step 1 1 0 0 1;
+ 160 0.000000 auto step 1 1 0 0 1;
+ }
+}
+anim rotate.rotateZ rotateZ JOBJ_14 0 1 2;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 spline spline 1 1 0 0 1 0 1;
+ 110 0.199982 spline spline 1 1 0 0 1 0 1;
+ 160 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim JOBJ_15 0 1 0;
+anim JOBJ_16 0 1 0;
+anim JOBJ_17 0 1 0;
+anim JOBJ_18 0 1 0;
+anim JOBJ_19 0 1 0;
+anim JOBJ_20 0 1 0;
+anim JOBJ_21 0 1 0;
+anim JOBJ_22 0 1 0;
+anim rotate.rotateX rotateX JOBJ_23 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -0.190613 spline spline 1 1 0 0 1 0 1;
+ 90 -0.384644 spline spline 1 1 0 0 1 0 1;
+ 160 -0.190613 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_23 0 1 1;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.301849 auto step 1 1 0 0 1;
+ 160 0.301849 auto step 1 1 0 0 1;
+ }
+}
+anim rotate.rotateZ rotateZ JOBJ_23 0 1 2;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.129425 auto step 1 1 0 0 1;
+ 160 0.129425 auto step 1 1 0 0 1;
+ }
+}
+anim rotate.rotateX rotateX JOBJ_24 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -0.278809 spline spline 1 1 0 0 1 0 1;
+ 95 -0.296204 spline spline 1 1 0 0 1 0 1;
+ 160 -0.278809 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_24 0 1 1;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -0.974365 spline spline 1 1 0 0 1 0 1;
+ 95 -1.012817 spline spline 1 1 0 0 1 0 1;
+ 160 -0.974365 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateZ rotateZ JOBJ_24 0 1 2;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.061584 spline spline 1 1 0 0 1 0 1;
+ 95 0.038239 spline spline 1 1 0 0 1 0 1;
+ 160 0.061584 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateX rotateX JOBJ_25 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -0.209961 spline spline 1 1 0 0 1 0 1;
+ 65 -0.209961 spline spline 1 1 0 0 1 0 1;
+ 95 -0.087219 spline spline 1 1 0 0 1 0 1;
+ 160 -0.209961 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_25 0 1 1;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -0.159973 spline spline 1 1 0 0 1 0 1;
+ 65 -0.159973 spline spline 1 1 0 0 1 0 1;
+ 95 -0.209412 spline spline 1 1 0 0 1 0 1;
+ 160 -0.159973 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateZ rotateZ JOBJ_25 0 1 2;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 auto step 1 1 0 0 1;
+ 160 0.000000 auto step 1 1 0 0 1;
+ }
+}
+anim rotate.rotateX rotateX JOBJ_26 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -0.180481 auto step 1 1 0 0 1;
+ 160 -0.180481 auto step 1 1 0 0 1;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_26 0 1 1;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.575409 auto step 1 1 0 0 1;
+ 160 0.575409 auto step 1 1 0 0 1;
+ }
+}
+anim rotate.rotateZ rotateZ JOBJ_26 0 1 2;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -0.323486 spline spline 1 1 0 0 1 0 1;
+ 95 -0.401367 spline spline 1 1 0 0 1 0 1;
+ 160 -0.323486 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateX rotateX JOBJ_27 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -0.319946 spline spline 1 1 0 0 1 0 1;
+ 100 -0.226868 spline spline 1 1 0 0 1 0 1;
+ 160 -0.319946 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_27 0 1 1;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -0.169983 spline spline 1 1 0 0 1 0 1;
+ 100 -0.209412 spline spline 1 1 0 0 1 0 1;
+ 160 -0.169983 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateZ rotateZ JOBJ_27 0 1 2;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 auto step 1 1 0 0 1;
+ 160 0.000000 auto step 1 1 0 0 1;
+ }
+}
+anim rotate.rotateX rotateX JOBJ_28 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 auto step 1 1 0 0 1;
+ 160 0.000000 auto step 1 1 0 0 1;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_28 0 1 1;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -0.449951 auto step 1 1 0 0 1;
+ 160 -0.449951 auto step 1 1 0 0 1;
+ }
+}
+anim rotate.rotateZ rotateZ JOBJ_28 0 1 2;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 spline spline 1 1 0 0 1 0 1;
+ 105 -0.122131 spline spline 1 1 0 0 1 0 1;
+ 160 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateX rotateX JOBJ_29 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 spline spline 1 1 0 0 1 0 1;
+ 80 0.000000 spline spline 1 1 0 0 1 0 1;
+ 160 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_29 0 1 1;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 spline spline 1 1 0 0 1 0 1;
+ 50 0.015625 spline spline 1 1 0 0 1 0 1;
+ 80 0.000000 spline spline 1 1 0 0 1 0 1;
+ 90 -0.015625 spline spline 1 1 0 0 1 0 1;
+ 160 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateZ rotateZ JOBJ_29 0 1 2;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -0.169983 spline spline 1 1 0 -0.1154027 1 -0.1154027 1;
+ 80 -0.019959 spline spline 1 1 0 0 1 0 1;
+ 160 -0.169983 spline spline 1 1 0 0.1084086 1 0.1084086 1;
+ }
+}
+anim rotate.rotateX rotateX JOBJ_30 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 spline spline 1 1 0 0 1 0 1;
+ 85 0.000000 spline spline 1 1 0 0 1 0 1;
+ 160 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_30 0 1 1;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 spline spline 1 1 0 0 1 0 1;
+ 55 0.015625 spline spline 1 1 0 0 1 0 1;
+ 85 0.000000 spline spline 1 1 0 0 1 0 1;
+ 95 -0.015625 spline spline 1 1 0 0 1 0 1;
+ 160 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateZ rotateZ JOBJ_30 0 1 2;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.046448 spline spline 1 1 0 0 1 0 1;
+ 85 0.146332 spline spline 1 1 0 -0.1503731 1 -0.1503731 1;
+ 160 0.046448 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim JOBJ_31 0 1 0;
+anim rotate.rotateX rotateX JOBJ_32 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -0.149963 spline spline 1 1 0 0 1 0 1;
+ 90 -0.149597 spline spline 1 1 0 0 1 0 1;
+ 160 -0.149963 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_32 0 1 1;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 spline spline 1 1 0 0 1 0 1;
+ 90 0.010437 spline spline 1 1 0 0 1 0 1;
+ 160 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateZ rotateZ JOBJ_32 0 1 2;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -0.159973 spline spline 1 1 0 0 1 0 1;
+ 90 -0.090759 spline spline 1 1 0 0 1 0 1;
+ 160 -0.159973 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateX rotateX JOBJ_33 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.233673 spline spline 1 1 0 0 1 0 1;
+ 90 0.236176 spline spline 1 1 0 0 1 0 1;
+ 160 0.233673 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_33 0 1 1;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -0.051880 spline spline 1 1 0 0 1 0 1;
+ 90 -0.045532 spline spline 1 1 0 0 1 0 1;
+ 160 -0.051880 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateZ rotateZ JOBJ_33 0 1 2;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.274963 spline spline 1 1 0 0 1 0 1;
+ 90 0.280670 spline spline 1 1 0 0 1 0 1;
+ 160 0.274963 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateX rotateX JOBJ_34 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 spline spline 1 1 0 0 1 0 1;
+ 100 0.039063 spline spline 1 1 0 0 1 0 1;
+ 160 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_34 0 1 1;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 spline spline 1 1 0 0 1 0 1;
+ 100 0.000000 spline spline 1 1 0 0 1 0 1;
+ 160 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateZ rotateZ JOBJ_34 0 1 2;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 spline spline 1 1 0 0 1 0 1;
+ 100 0.078125 spline spline 1 1 0 0 1 0 1;
+ 160 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim JOBJ_35 0 1 0;
+anim rotate.rotateX rotateX JOBJ_36 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.119995 spline spline 1 1 0 0 1 0 1;
+ 100 0.119843 spline spline 1 1 0 0 1 0 1;
+ 160 0.119995 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_36 0 1 1;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 spline spline 1 1 0 0 1 0 1;
+ 100 -0.005981 spline spline 1 1 0 0 1 0 1;
+ 160 0.000000 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateZ rotateZ JOBJ_36 0 1 2;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.119995 spline spline 1 1 0 0 1 0 1;
+ 100 0.169617 spline spline 1 1 0 0 1 0 1;
+ 160 0.119995 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateX rotateX JOBJ_37 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -0.254639 spline spline 1 1 0 0 1 0 1;
+ 100 -0.236450 spline spline 1 1 0 0 1 0 1;
+ 160 -0.254639 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_37 0 1 1;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -0.035339 spline spline 1 1 0 0 1 0 1;
+ 100 -0.015076 spline spline 1 1 0 0 1 0 1;
+ 160 -0.035339 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateZ rotateZ JOBJ_37 0 1 2;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 -0.297913 spline spline 1 1 0 0 1 0 1;
+ 100 -0.280212 spline spline 1 1 0 0 1 0 1;
+ 160 -0.297913 spline spline 1 1 0 0 1 0 1;
+ }
+}
+anim rotate.rotateX rotateX JOBJ_38 0 1 0;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 auto step 1 1 0 0 1;
+ 160 0.000000 auto step 1 1 0 0 1;
+ }
+}
+anim rotate.rotateY rotateY JOBJ_38 0 1 1;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 auto step 1 1 0 0 1;
+ 160 0.000000 auto step 1 1 0 0 1;
+ }
+}
+anim rotate.rotateZ rotateZ JOBJ_38 0 1 2;
+animData {
+ input time;
+ output angular;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 0.000000 auto step 1 1 0 0 1;
+ 160 0.000000 auto step 1 1 0 0 1;
+ }
+}

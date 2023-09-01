@@ -1,0 +1,126 @@
+newmtl Joint_1_Object_0_Material_0
+ illum 2
+ Ka 0.5019608 0.5019608 0.5019608
+ Kd 0.7019608 0.7019608 0.7019608
+ Ks 1 1 1
+ Ns 150
+ d 1
+ Tr 0
+ map_Kd Texture_0_CMP.png
+newmtl Joint_1_Object_1_Material_1
+ illum 2
+ Ka 0.5019608 0.5019608 0.5019608
+ Kd 0.7019608 0.7019608 0.7019608
+ Ks 1 1 1
+ Ns 150
+ d 1
+ Tr 0
+ map_Kd Texture_0_CMP.png
+newmtl Joint_1_Object_2_Material_2
+ illum 2
+ Ka 0.5019608 0.5019608 0.5019608
+ Kd 0.7019608 0.7019608 0.7019608
+ Ks 1 1 1
+ Ns 50
+ d 1
+ Tr 0
+ map_Kd Texture_0_CMP.png
+newmtl Joint_1_Object_3_Material_3
+ illum 2
+ Ka 0.5019608 0.5019608 0.5019608
+ Kd 0.5019608 0.5019608 0.5019608
+ Ks 1 1 1
+ Ns 50
+ d 1
+ Tr 0
+ map_Kd Texture_2_CI8_RGB565.png
+newmtl Joint_1_Object_4_Material_4
+ illum 2
+ Ka 0.2980392 0.2980392 0.2980392
+ Kd 1 1 1
+ Ks 1 1 1
+ Ns 50
+ d 1
+ Tr 0
+ map_Kd Texture_3_CI8_RGB565.png
+newmtl Joint_1_Object_5_Material_5
+ illum 2
+ Ka 0.2980392 0.2980392 0.2980392
+ Kd 1 1 1
+ Ks 1 1 1
+ Ns 50
+ d 1
+ Tr 0
+ map_Kd Texture_3_CI8_RGB565.png
+newmtl Joint_1_Object_6_Material_6
+ illum 2
+ Ka 0.2980392 0.2980392 0.2980392
+ Kd 1 1 1
+ Ks 1 1 1
+ Ns 50
+ d 1
+ Tr 0
+ map_Kd Texture_3_CI8_RGB565.png
+newmtl Joint_1_Object_7_Material_7
+ illum 2
+ Ka 0.2980392 0.2980392 0.2980392
+ Kd 1 1 1
+ Ks 1 1 1
+ Ns 50
+ d 1
+ Tr 0
+ map_Kd Texture_3_CI8_RGB565.png
+newmtl Joint_1_Object_8_Material_8
+ illum 2
+ Ka 0.2980392 0.2980392 0.2980392
+ Kd 1 1 1
+ Ks 1 1 1
+ Ns 50
+ d 1
+ Tr 0
+ map_Kd Texture_3_CI8_RGB565.png
+newmtl Joint_1_Object_9_Material_9
+ illum 2
+ Ka 0.2980392 0.2980392 0.2980392
+ Kd 1 1 1
+ Ks 1 1 1
+ Ns 50
+ d 1
+ Tr 0
+ map_Kd Texture_3_CI8_RGB565.png
+newmtl Joint_1_Object_10_Material_10
+ illum 2
+ Ka 0.2980392 0.2980392 0.2980392
+ Kd 1 1 1
+ Ks 1 1 1
+ Ns 50
+ d 1
+ Tr 0
+ map_Kd Texture_3_CI8_RGB565.png
+newmtl Joint_1_Object_11_Material_11
+ illum 2
+ Ka 0.2980392 0.2980392 0.2980392
+ Kd 1 1 1
+ Ks 1 1 1
+ Ns 50
+ d 1
+ Tr 0
+ map_Kd Texture_3_CI8_RGB565.png
+newmtl Joint_1_Object_12_Material_12
+ illum 2
+ Ka 0.2980392 0.2980392 0.2980392
+ Kd 1 1 1
+ Ks 1 1 1
+ Ns 50
+ d 1
+ Tr 0
+ map_Kd Texture_3_CI8_RGB565.png
+newmtl Joint_1_Object_13_Material_13
+ illum 2
+ Ka 0.2980392 0.2980392 0.2980392
+ Kd 1 1 1
+ Ks 1 1 1
+ Ns 50
+ d 1
+ Tr 0
+ map_Kd Texture_3_CI8_RGB565.png

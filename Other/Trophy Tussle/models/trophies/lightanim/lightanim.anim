@@ -1,0 +1,68 @@
+animVersion 1.1;
+mayaVersion 2015;
+timeUnit ntscf;
+linearUnit cm;
+angularUnit rad;
+startTime 0;
+endTime 1440;
+anim JOBJ_0 0 1 0;
+anim translate.translateX translateX JOBJ_1 0 1 0;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 4.000000 spline spline 1 1 0 0 1 0 1;
+ 148 0.000000 spline spline 1 1 0 -0.8916773 1 -0.8916773 1;
+ 310 -0.826172 spline spline 1 1 0 -1.510379 1 -1.510379 1;
+ 540 -10.356450 spline spline 1 1 0 -2.694243 1 -2.694243 1;
+ 692 -18.817380 spline spline 1 1 0 2.442961 1 2.442961 1;
+ 855 3.085938 spline spline 1 1 0 6.652816 1 6.652816 1;
+ 949 11.167970 spline spline 1 1 0 -1.080462 1 -1.080462 1;
+ 1193 -3.296875 spline spline 1 1 0 -0.8357372 1 -0.8357372 1;
+ 1439 4.000000 auto step 1 1 0 0 1;
+ 1440 4.000000 auto step 1 1 0 0 1;
+ }
+}
+anim translate.translateZ translateZ JOBJ_1 0 1 1;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 12.000000 spline spline 1 1 0 0 1 0 1;
+ 148 12.000000 spline spline 1 1 0 -1.108428 1 -1.108428 1;
+ 310 6.000000 spline spline 1 1 0 0.6783973 1 0.6783973 1;
+ 540 16.644040 spline spline 1 1 0 0.2762653 1 0.2762653 1;
+ 692 7.849121 spline spline 1 1 0 0.2168165 1 0.2168165 1;
+ 855 17.844240 spline spline 1 1 0 1.104933 1 1.104933 1;
+ 949 12.806150 spline spline 1 1 0 -0.8567148 1 -0.8567148 1;
+ 1193 12.790040 spline spline 1 1 0 -0.0909234 1 -0.0909234 1;
+ 1439 12.000000 auto step 1 1 0 0 1;
+ 1440 12.000000 auto step 1 1 0 0 1;
+ }
+}
+anim translate.translateY translateY JOBJ_1 0 1 2;
+animData {
+ input time;
+ output linear;
+ weighted 0;
+ preInfinity constant;
+ postInfinity constant;
+ keys {
+ 0 10.000000 spline spline 1 1 0 0 1 0 1;
+ 148 12.000000 spline spline 1 1 0 -1.03152 1 -1.03152 1;
+ 310 4.413086 spline spline 1 1 0 -0.9056625 1 -0.9056625 1;
+ 540 5.787598 spline spline 1 1 0 -0.5665048 1 -0.5665048 1;
+ 692 0.626465 spline spline 1 1 0 -1.27971 1 -1.27971 1;
+ 855 -1.250977 spline spline 1 1 0 0.04895879 1 0.04895879 1;
+ 949 0.858398 spline spline 1 1 0 1.325148 1 1.325148 1;
+ 1193 6.585938 spline spline 1 1 0 1.066479 1 1.066479 1;
+ 1439 10.000000 auto step 1 1 0 0 1;
+ 1440 10.000000 auto step 1 1 0 0 1;
+ }
+}
